@@ -1,0 +1,108 @@
+HEADER    ----                                    28-JUL-25   XXXX              
+TITLE     ---                                                                   
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : REFMAC 5.8.0267                                      
+REMARK   3   AUTHORS     : MURSHUDOV,SKUBAK,LEBEDEV,PANNU,                      
+REMARK   3                 STEINER,NICHOLLS,WINN,LONG,VAGIN                     
+REMARK   3                                                                      
+REMARK   3    REFINEMENT TARGET : MAXIMUM LIKELIHOOD                            
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) :   1.62                         
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) :  62.34                         
+REMARK   3   DATA CUTOFF            (SIGMA(F)) : NONE                           
+REMARK   3   COMPLETENESS FOR RANGE        (%) :  50.53                         
+REMARK   3   NUMBER OF REFLECTIONS             :    9697                        
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT.                                     
+REMARK   3   CROSS-VALIDATION METHOD          : THROUGHOUT                      
+REMARK   3   FREE R VALUE TEST SET SELECTION  : RANDOM                          
+REMARK   3   R VALUE     (WORKING + TEST SET) : 0.21243                         
+REMARK   3   R VALUE            (WORKING SET) :  0.20994                        
+REMARK   3   FREE R VALUE                     :  0.25774                        
+REMARK   3   FREE R VALUE TEST SET SIZE   (%) :  5.0                            
+REMARK   3   FREE R VALUE TEST SET COUNT      :   511                           
+REMARK   3                                                                      
+REMARK   3  FIT IN THE HIGHEST RESOLUTION BIN.                                  
+REMARK   3   TOTAL NUMBER OF BINS USED           :      20                      
+REMARK   3   BIN RESOLUTION RANGE HIGH           :    1.619                     
+REMARK   3   BIN RESOLUTION RANGE LOW            :    1.661                     
+REMARK   3   REFLECTION IN BIN     (WORKING SET) :       52                     
+REMARK   3   BIN COMPLETENESS (WORKING+TEST) (%) :     3.83                     
+REMARK   3   BIN R VALUE           (WORKING SET) :    0.426                     
+REMARK   3   BIN FREE R VALUE SET COUNT          :        4                     
+REMARK   3   BIN FREE R VALUE                    :    0.184                     
+REMARK   3                                                                      
+REMARK   3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.                    
+REMARK   3   ALL ATOMS                :     1813                                
+REMARK   3                                                                      
+REMARK   3  B VALUES.                                                           
+REMARK   3   FROM WILSON PLOT           (A**2) : NULL                           
+REMARK   3   MEAN B VALUE      (OVERALL, A**2) :  33.515                        
+REMARK   3   OVERALL ANISOTROPIC B VALUE.                                       
+REMARK   3    B11 (A**2) :    -0.51                                             
+REMARK   3    B22 (A**2) :    -0.51                                             
+REMARK   3    B33 (A**2) :     1.01                                             
+REMARK   3    B12 (A**2) :     0.00                                             
+REMARK   3    B13 (A**2) :     0.00                                             
+REMARK   3    B23 (A**2) :     0.00                                             
+REMARK   3                                                                      
+REMARK   3  ESTIMATED OVERALL COORDINATE ERROR.                                 
+REMARK   3   ESU BASED ON R VALUE                            (A):   0.374       
+REMARK   3   ESU BASED ON FREE R VALUE                       (A):   0.230       
+REMARK   3   ESU BASED ON MAXIMUM LIKELIHOOD                 (A):   0.110       
+REMARK   3   ESU FOR B VALUES BASED ON MAXIMUM LIKELIHOOD (A**2):   3.127       
+REMARK   3                                                                      
+REMARK   3 CORRELATION COEFFICIENTS.                                            
+REMARK   3   CORRELATION COEFFICIENT FO-FC      :   0.941                       
+REMARK   3   CORRELATION COEFFICIENT FO-FC FREE :   0.909                       
+REMARK   3                                                                      
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES        COUNT    RMS    WEIGHT      
+REMARK   3   BOND LENGTHS REFINED ATOMS        (A):  2072 ; 0.006 ; 0.014       
+REMARK   3   BOND LENGTHS OTHERS               (A):  1562 ; 0.001 ; 0.015       
+REMARK   3   BOND ANGLES REFINED ATOMS   (DEGREES):  2287 ; 1.401 ; 1.669       
+REMARK   3   BOND ANGLES OTHERS          (DEGREES):  3623 ; 1.208 ; 1.625       
+REMARK   3   TORSION ANGLES, PERIOD 1    (DEGREES):   225 ; 6.684 ; 5.000       
+REMARK   3   TORSION ANGLES, PERIOD 2    (DEGREES):    89 ;29.667 ;21.798       
+REMARK   3   TORSION ANGLES, PERIOD 3    (DEGREES):   294 ;16.424 ;15.000       
+REMARK   3   TORSION ANGLES, PERIOD 4    (DEGREES):    14 ;18.721 ;15.000       
+REMARK   3   CHIRAL-CENTER RESTRAINTS       (A**3):   209 ; 0.056 ; 0.200       
+REMARK   3   GENERAL PLANES REFINED ATOMS      (A):  2205 ; 0.007 ; 0.020       
+REMARK   3   GENERAL PLANES OTHERS             (A):   423 ; 0.002 ; 0.020       
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL FACTOR RESTRAINTS.     COUNT   RMS    WEIGHT      
+REMARK   3   MAIN-CHAIN BOND REFINED ATOMS  (A**2):  1040 ; 1.767 ; 3.477       
+REMARK   3   MAIN-CHAIN BOND OTHER ATOMS    (A**2):   965 ; 1.835 ; 3.468       
+REMARK   3   MAIN-CHAIN ANGLE REFINED ATOMS (A**2):  1063 ; 3.331 ; 4.966       
+REMARK   3   MAIN-CHAIN ANGLE OTHER ATOMS (A**2)  :  1064 ; 3.330 ; 4.969       
+REMARK   3   SIDE-CHAIN BOND REFINED ATOMS  (A**2):  1032 ; 1.624 ; 3.755       
+REMARK   3   SIDE-CHAIN BOND OTHER ATOMS  (A**2)  :  1033 ; 1.623 ; 3.754       
+REMARK   3   SIDE-CHAIN ANGLE OTHER ATOMS (A**2)  :  1225 ; 2.863 ; 5.380       
+REMARK   3   LONG RANGE B REFINED ATOMS (A**2)    :  1998 ; 5.585 ;38.564       
+REMARK   3   LONG RANGE B OTHER ATOMS (A**2)      :  1983 ; 5.551 ;38.429       
+REMARK   3                                                                      
+REMARK   3  NCS RESTRAINTS STATISTICS                                           
+REMARK   3   NUMBER OF NCS GROUPS : NULL                                        
+REMARK   3                                                                      
+REMARK   3  TWIN DETAILS                                                        
+REMARK   3   NUMBER OF TWIN DOMAINS  : NULL                                     
+REMARK   3                                                                      
+REMARK   3                                                                      
+REMARK   3  TLS DETAILS                                                         
+REMARK   3   NUMBER OF TLS GROUPS  : NULL                                       
+REMARK   3                                                                      
+REMARK   3                                                                      
+REMARK   3  BULK SOLVENT MODELLING.                                             
+REMARK   3   METHOD USED :  MASK                                                
+REMARK   3   PARAMETERS FOR MASK CALCULATION                                    
+REMARK   3   VDW PROBE RADIUS   :   1.20                                        
+REMARK   3   ION PROBE RADIUS   :   0.80                                        
+REMARK   3   SHRINKAGE RADIUS   :   0.80                                        
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS:                                           
+REMARK   3  HYDROGENS HAVE BEEN ADDED IN THE RIDING POSITIONS                   
+REMARK   3  U VALUES      : REFINED INDIVIDUALLY                                
+REMARK   3                                                                      
+CRYST1   88.167   88.167   40.887  90.00  90.00  90.00 I 41                     
+END                                                                             
