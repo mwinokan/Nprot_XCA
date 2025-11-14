@@ -1,0 +1,279 @@
+INFO: initialising logging at level 0 at 2025-11-14 13:19:51.298532
+INFO: found 2 inputs
+INFO: Excluded datasets: []
+INFO: adding input dls/labxchem/data/lb32627/lb32627-93 with 13 panddas event maps
+INFO: Excluded datasets: []
+INFO: adding input dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1 with 1 panddas event maps
+INFO: collator:  Namespace(dir=None, log_level=0, validate=False, no_git_info=True, no_validate_configs=False)
+INFO: version is 1
+INFO: setting version dir to upload_1
+INFO: using version dir upload_1
+INFO: validating paths
+INFO: testing /dls/labxchem/data/lb32627/lb32627-93
+INFO: testing /dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1
+INFO: validating data
+INFO: using GIT repo of /dls/science/groups/i04-1/software/xchem-align-staging
+INFO: opening DB file: /dls/labxchem/data/lb32627/lb32627-93/processing/database/soakDBDataFile.sqlite
+INFO: adding crystal (model_building) SARS2_Nprot-A0239
+INFO: adding crystal (model_building) SARS2_Nprot-A0240
+INFO: adding crystal (model_building) SARS2_Nprot-A0383
+INFO: adding crystal (model_building) SARS2_Nprot-A0438
+INFO: adding crystal (model_building) SARS2_Nprot-A0497
+INFO: adding crystal (model_building) SARS2_Nprot-x0797
+INFO: adding crystal (model_building) SARS2_Nprot-x1108
+INFO: adding crystal (model_building) SARS2_Nprot-x1124
+INFO: adding crystal (model_building) SARS2_Nprot-x1135
+INFO: adding crystal (model_building) SARS2_Nprot-x1167
+INFO: adding crystal (model_building) SARS2_Nprot-x1285
+INFO: adding crystal (model_building) SARS2_Nprot-x1299
+INFO: adding crystal (model_building) SARS2_Nprot-x1305
+INFO: adding crystal (model_building) SARS2_Nprot-x1361
+INFO: adding crystal (model_building) SARS2_Nprot-x1396
+INFO: adding crystal (model_building) SARS2_Nprot-x1410
+INFO: adding crystal (model_building) SARS2_Nprot-x1427
+INFO: adding crystal (model_building) SARS2_Nprot-x1475
+INFO: adding crystal (model_building) SARS2_Nprot-x1491
+INFO: adding crystal (model_building) SARS2_Nprot-x1498
+INFO: adding crystal (model_building) SARS2_Nprot-x1574
+INFO: adding crystal (model_building) SARS2_Nprot-x1582
+INFO: adding crystal (model_building) SARS2_Nprot-x1585
+INFO: adding crystal (model_building) SARS2_Nprot-x1586
+INFO: adding crystal (model_building) SARS2_Nprot-x1594
+INFO: adding crystal (model_building) SARS2_Nprot-x1626
+INFO: adding crystal (model_building) SARS2_Nprot-x1651
+INFO: adding crystal (model_building) SARS2_Nprot-x1882
+INFO: adding crystal (model_building) SARS2_Nprot-x1976
+INFO: validator handled 241 rows from database, 29 were valid
+INFO: opening DB file: /dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/database/soakDBDataFile.sqlite
+INFO: adding crystal (model_building) Nprot-x0072
+INFO: adding crystal (model_building) Nprot-x0083
+INFO: adding crystal (model_building) Nprot-x0084
+INFO: adding crystal (model_building) Nprot-x0098
+INFO: adding crystal (model_building) Nprot-x0125
+INFO: adding crystal (model_building) Nprot-x0138
+INFO: adding crystal (model_building) Nprot-x0180
+INFO: adding crystal (model_building) Nprot-x0190
+INFO: adding crystal (model_building) Nprot-x0220
+INFO: adding crystal (model_building) Nprot-x0230
+INFO: adding crystal (model_building) Nprot-x0249
+INFO: adding crystal (model_building) Nprot-x0263
+INFO: adding crystal (model_building) Nprot-x0275
+INFO: adding crystal (model_building) Nprot-x0300
+INFO: adding crystal (model_building) Nprot-x0303
+INFO: adding crystal (model_building) Nprot-x0318
+INFO: adding crystal (model_building) Nprot-x0329
+INFO: adding crystal (model_building) Nprot-x0334
+INFO: adding crystal (model_building) Nprot-x0340
+INFO: adding crystal (model_building) Nprot-x0343
+INFO: adding crystal (model_building) Nprot-x0345
+INFO: adding crystal (model_building) Nprot-x0358
+INFO: adding crystal (model_building) Nprot-x0359
+INFO: adding crystal (model_building) Nprot-x0361
+INFO: adding crystal (model_building) Nprot-x0369
+INFO: adding crystal (model_building) Nprot-x0372
+INFO: adding crystal (model_building) Nprot-x0374
+INFO: adding crystal (model_building) Nprot-x0385
+INFO: adding crystal (model_building) Nprot-x0389
+INFO: adding crystal (model_building) Nprot-x0390
+INFO: adding crystal (model_building) Nprot-x0392
+INFO: adding crystal (model_building) Nprot-x0395
+INFO: adding crystal (model_building) Nprot-x0401
+INFO: adding crystal (model_building) Nprot-x0403
+INFO: adding crystal (model_building) Nprot-x0412
+INFO: adding crystal (model_building) Nprot-x0423
+INFO: adding crystal (model_building) Nprot-x0438
+INFO: adding crystal (model_building) Nprot-x0467
+INFO: adding crystal (model_building) Nprot-x0477
+INFO: adding crystal (model_building) Nprot-x0483
+INFO: adding crystal (model_building) Nprot-x0488
+INFO: adding crystal (model_building) Nprot-x0525
+INFO: adding crystal (model_building) Nprot-x0540
+INFO: adding crystal (model_building) Nprot-x0543
+INFO: adding crystal (model_building) Nprot-x0552
+INFO: adding crystal (model_building) Nprot-x0556
+INFO: adding crystal (model_building) Nprot-x0615
+INFO: adding crystal (model_building) Nprot-x0616
+INFO: adding crystal (model_building) Nprot-x0642
+INFO: adding crystal (model_building) Nprot-x0648
+INFO: adding crystal (model_building) Nprot-x0656
+INFO: validator handled 616 rows from database, 51 were valid
+INFO: assemblies.yaml seems to comply with the schema
+INFO: running collator...
+INFO: coping files ...
+INFO: using cryst_dir of /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/crystallographic_files
+INFO: creating cryst_dir /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/crystallographic_files
+INFO: writing compound data to /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/extra_files/compounds_auto.csv
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-A0239 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-A0240 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-A0383 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-A0438 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-A0497 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x0797 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1108 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1124 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1135 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1167 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1285 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1299 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1305 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1361 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1396 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1410 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1427 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1475 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1491 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1498 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1574 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1582 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1585 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1586 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1594 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1626 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1651 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1882 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: SARS2_Nprot-x1976 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0072 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0083 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0084 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0098 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0125 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0138 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0180 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0190 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0220 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0230 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0249 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0263 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0275 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0300 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0303 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0318 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0329 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0334 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0340 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0343 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0345 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0358 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0359 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0361 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0369 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0372 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0374 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0385 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0389 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0390 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0392 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0395 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0401 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0403 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0412 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0423 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0438 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0467 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0477 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0483 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0488 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0525 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0540 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0543 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0552 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0556 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0615 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0616 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0642 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0648 has 3 files to copy
+INFO: Found ligand names ['LIG']
+INFO: Nprot-x0656 has 3 files to copy
+INFO: munging the history ...
+INFO: munging current metadata
+INFO: metadata 1 has 80 items
+INFO: munging resulted in 80 total xtals, 80 are new or updated
+INFO: writing metadata ...
+WARN: extra_files dir /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/extra_files not found
+INFO: reading DB file: /dls/labxchem/data/lb32627/lb32627-93/processing/database/soakDBDataFile.sqlite
+INFO: reading DB file: /dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/database/soakDBDataFile.sqlite
+INFO: writing soakdb data to /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/extra_files/soakdb_lb32627-93
+INFO: writing soakdb data to /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/extra_files/soakdb_lb27156-1
+INFO: copying config.yaml
+INFO: copying config file /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/config.yaml to /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/config.yaml
+INFO: run complete
+INFO: Handled 80 crystals in 27 secs

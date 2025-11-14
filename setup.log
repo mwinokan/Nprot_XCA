@@ -1,0 +1,8 @@
+INFO: initialising logging at level 0 at 2025-11-14 13:16:02.829468
+INFO: Using /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025 as working dir
+INFO: Current data format version is 2.2
+INFO: Your working environment has been set up in /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current
+INFO: In there you will find dummy config.yaml and assemblies.yaml files
+INFO: You will need to edit these as described in the User Guide.
+INFO: Then you can run collator like this (omit the -d argument if you are already in that directory):
+      python -m xchemalign.collator -d /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025

@@ -1,0 +1,46 @@
+# DO NOT USE TABS FOR THE WHITESPACE!
+target_name: SARS2_Nprot # The name of your target. If you already have data on Fragalysis it should be the 'target' name that
+                   # it appears under
+base_dir: / # The directory that inputs (not output_dir!) are relative to. For users at
+                                            # Diamond this should be set to '/'
+# output_dir: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xchemalign  # The directory that will contain all your upload folders. This path is
+                                             # NOT relative to base_dir.
+ref_datasets:
+  - SARS2_Nprot-x1882
+
+panddas_missing_ok: [ ]
+
+inputs:  # The datasources to collate
+  - dir: dls/labxchem/data/lb32627/lb32627-93  # The target directory. This will pull data from
+                                              # 'dir/processing/analysis/modeL_building'. This is relative to 'base_dir'.
+    type: model_building  # This will always be model_building unless you have datasets from the pdb you want to align
+                          # which is an advanced topic not covered here.
+    code_prefix: "Nprot-x"
+    code_prefix_tooltip: "SARS2_Nprot structures"
+    soakdb: processing/database/soakDBDataFile.sqlite  # The path to the soakdb database relative to 'dir'.
+    exclude: [ ]
+    panddas_event_files:  # The paths to the inspect tables of the PanDDAs used to model the bound state.
+    - processing/analysis/panddas/20250517_pandda2_0668-0999/analyses/pandda_inspect_events.csv
+    - processing/analysis/panddas/20250517_pandda2_1000-1250/analyses/pandda_inspect_events.csv
+    - processing/analysis/panddas/20250517_pandda2_1251-1500/analyses/pandda_inspect_events.csv
+    - processing/analysis/panddas/20250517_pandda2_1501-1750/analyses/pandda_inspect_events.csv
+    - processing/analysis/panddas/20250517_pandda2_1751-1942/analyses/pandda_inspect_events.csv
+    - processing/analysis/panddas/20250519_pandda2_cluster4x_1/analyses/pandda_inspect_events.csv
+    - processing/analysis/panddas/20250519_pandda2_cluster4x_2/analyses/pandda_inspect_events.csv
+    - processing/analysis/panddas/20250522_pandda1/analyses/pandda_inspect_events.csv
+    - processing/analysis/panddas/20250522_pandda1_0688-1942/analyses/pandda_inspect_events.csv
+    - processing/analysis/panddas/20250522_pandda2_resolutionlimit/analyses/pandda_inspect_events.csv 
+    - processing/analysis/panddas/20250528_pandda2_0203-0664/analyses/pandda_inspect_events.csv 
+    - processing/analysis/panddas/20250528_pandda2_0203-0664_1.8/analyses/pandda_inspect_events.csv 
+    - processing/analysis/panddas/20250811_pandda2_1943-1986/analyses/pandda_inspect_events.csv # Again these are relative to 'dir'.
+
+  - dir: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1  # The target directory. This will pull data from
+                                              # 'dir/processing/analysis/modeL_building'. This is relative to 'base_dir'.
+    type: model_building  # This will always be model_building unless you have datasets from the pdb you want to align
+                          # which is an advanced topic not covered here.
+    code_prefix: "Nprot-frag-x"
+    code_prefix_tooltip: "SARS2_Nprot structures"
+    soakdb: processing/database/soakDBDataFile.sqlite  # The path to the soakdb database relative to 'dir'.
+    exclude: [ ]
+    panddas_event_files:  # The paths to the inspect tables of the PanDDAs used to model the bound state.
+    - processing/analysis/20250626_pandda2/analyses/pandda_inspect_events.csv # Again these are relative to 'dir'.

@@ -1,0 +1,1222 @@
+run_on: '2025-11-14 13:19:51.660541'
+collator_cwd: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025
+collator_config_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/config.yaml
+input_dirs:
+- /dls/labxchem/data/lb32627/lb32627-93
+- /dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1
+output_dir: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current
+data_format_version: 3.0
+version_number: 1
+version_dir: upload_1
+previous_version_dirs: []
+xca_git_info:
+  origin_url: https://github.com/xchem/xchem-align.git
+  branch: '20251023'
+  sha: fbb191573a22e1421a59d8817ecff602db6c4188
+  tag: null
+  dirty: false
+code_prefix_tooltips:
+  Nprot-x: SARS2_Nprot structures
+  Nprot-frag-x: SARS2_Nprot structures
+crystals:
+  SARS2_Nprot-A0239:
+    type: model_building
+    last_updated: '2025-09-16 10:59:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0239/Refine_6/refine.pdb
+        sha256: e1215a0b136921d1dad4652c3599270d93b982f66bf0033b89c47a5c212e1be9
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0239/Refine_6/refine.mtz
+        sha256: 028d61196565d877f78d2c1796bb9e89a9d86700f74aabdcbe24ddc38ef22a6f
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0239/compound/ASAP-0011103-001.cif
+        sha256: 40403aaa6ad0e83d29e6b0aa6d79d94369c2e40d65c441dfeb6802c3753bb3ad
+  SARS2_Nprot-A0240:
+    type: model_building
+    last_updated: '2025-09-16 11:01:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0240/Refine_9/refine.pdb
+        sha256: 9427749454812d4b13e989d6b74ad927019ae2d2ce88f877ed2bf27945d5a36b
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0240/Refine_9/refine.mtz
+        sha256: 5ceaf8ef081bc86b2fcd8da916804ea972678773668066c88d0e497b0235c937
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0240/compound/ASAP-0011104-001.cif
+        sha256: ca882ca9d20f9b69a416baac4a77547375ba12a0fb2c1ae4412627cde746c261
+  SARS2_Nprot-A0383:
+    type: model_building
+    last_updated: '2025-09-16 11:04:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0383/Refine_11/refine.pdb
+        sha256: bc78782ffb627003f59b7dd9a67bf4d9af687dfd96cb12640cb67a8e384cf740
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0383/Refine_11/refine.mtz
+        sha256: 312c1407de9ab76104c7b2b8ccf79d9d2f6cd908892629a2c8da20bfa07fd7c8
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0383/compound/ASAP-0010897-001.cif
+        sha256: 4d2567079da167222964e07f644ca4ebbcda8a910753471f41e8f2f75c3b2179
+  SARS2_Nprot-A0438:
+    type: model_building
+    last_updated: '2025-06-25 15:33:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0438/Refine_5/refine.pdb
+        sha256: 0caf83144944606dcb36b303afd1a534325a1e515191f4f2f8259688a5c6f060
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0438/Refine_5/refine.mtz
+        sha256: fa6961a496078d3bcf81bad0f66c5fba28f9da25d5e732d413a160f83f69ae56
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0438/compound/ASAP-0010954-001.cif
+        sha256: 7fa538fb31c9582f64ba7070c474de70a9d37ed1b2f3d062dcdbe87c0e7f970c
+  SARS2_Nprot-A0497:
+    type: model_building
+    last_updated: '2025-05-29 20:35:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0497/Refine_4/refine.pdb
+        sha256: ff51f31d259ec78a3feb786645a17fc8a2982d0a9e4993ae921f59a6beb52e82
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0497/Refine_4/refine.mtz
+        sha256: 48dbb6d47f105d5746469fc06f013b9c99a3c557cc6957b7b6ecf73fa9582800
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-A0497/compound/ASAP-0010918-001.cif
+        sha256: 289309bb53f865ed7ada8081f32c944da3ee1a9e4f86c1057c2b6645374576de
+  SARS2_Nprot-x0797:
+    type: model_building
+    last_updated: '2025-08-11 20:23:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x0797/Refine_8/refine.pdb
+        sha256: 8ff5d9ae6531b3406abecf578168f29125bf4d5663225b1da49f60eba95aa0d8
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x0797/Refine_8/refine.mtz
+        sha256: 9369354f1afeb92e74c2e7ad9382cd4f7fa14dbb1d361788ed8696227f5465e0
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x0797/compound/ASAP-0010829-001.cif
+        sha256: 36c74dc52966bb56c329f20a89038efa0a73100ca3f7a7a48224abbd885875b4
+  SARS2_Nprot-x1108:
+    type: model_building
+    last_updated: '2025-08-12 13:25:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1108/Refine_5/refine.pdb
+        sha256: 4c4716ea18b911747b2f516b0a578f59ec83d27f25d2a0ca9069865d9e999bde
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1108/Refine_5/refine.mtz
+        sha256: 8d6e5a70902e140fa56e47839cc90b323e46a0bee123e4d202a9b5c0a92db608
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1108/compound/ASAP-0010832-001.cif
+        sha256: 517a4b00c67dcc29d5f78493c1125fcb2e18b25faec620dc05c9b8f355ac88f2
+  SARS2_Nprot-x1124:
+    type: model_building
+    last_updated: '2025-08-11 20:28:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1124/Refine_8/refine.pdb
+        sha256: bd575fc0b8a1c59441ca119514d0f6d554f78e7e2ea76cfb5ed6f6b322d43305
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1124/Refine_8/refine.mtz
+        sha256: c8fc7ac2c0b9463202e47e1bc8e64d4c59d021038ee5135cd6b0ae8d42fb0d05
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1124/compound/ASAP-0010907-001.cif
+        sha256: 4f40ab0b4c4bfd0aa69c70da1a157154b14dacab59dca6793fcb39850eac06c8
+  SARS2_Nprot-x1135:
+    type: model_building
+    last_updated: '2025-08-11 20:28:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1135/Refine_6/refine.pdb
+        sha256: 03901ae81d858f0d1a87da3f603f34283b712b0af20cb24e0b8cb1764b08c401
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1135/Refine_6/refine.mtz
+        sha256: 1213dace24bce46b121062d6026f8ce2cb4b6623e39fc1e875cb9891563e195d
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1135/compound/ASAP-0038512-001.cif
+        sha256: 94b21f334868fcd5e35870fe56e3fe78a02e8b0cce0cae7fde1f286443250f0a
+  SARS2_Nprot-x1167:
+    type: model_building
+    last_updated: '2025-08-11 20:28:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1167/Refine_4/refine.pdb
+        sha256: 8e6e995f370a7d22ddc749d35fdf6f1a99cde76627b97f3e5ce2a33b77330f19
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1167/Refine_4/refine.mtz
+        sha256: de20a94246683b2baf51ecc51701acde72ca35518362b3b9bbe0342d7380bf92
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1167/compound/ASAP-0034396-001.cif
+        sha256: 89e592eb2f15cd528c3b331af539e02b52182464eeb1bd7048c15457be13bc76
+  SARS2_Nprot-x1285:
+    type: model_building
+    last_updated: '2025-08-12 13:20:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1285/Refine_7/refine.pdb
+        sha256: 0bd8c116f24c9286ff85cbd6663ca31f6f99eefb9efc0c3ec619de205111f771
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1285/Refine_7/refine.mtz
+        sha256: 02a66958c4cd09fee261a33ecdf1b398ddb32642f61e9e3bb06885970f934a26
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1285/compound/ASAP-0032770-001.cif
+        sha256: b9d6e57a225ab0ead90f63d8bde88ff1fc27b5417b92a5b6649870ae27d459a0
+  SARS2_Nprot-x1299:
+    type: model_building
+    last_updated: '2025-08-11 20:30:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1299/Refine_7/refine.pdb
+        sha256: f9cea0e46b82574bd527fa1bb7b41ed882198bd63d0e67313938f02597f8e837
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1299/Refine_7/refine.mtz
+        sha256: 64a4e9e4276869fe50510b076b9240c6082ac8fb9a6ae41fa5603193fee5a3f0
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1299/compound/ASAP-0034488-001.cif
+        sha256: b0426f61e0000bcb1e3b438398e91d585da2a3497a393682b267384fe022a422
+  SARS2_Nprot-x1305:
+    type: model_building
+    last_updated: '2025-08-11 20:30:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1305/Refine_8/refine.pdb
+        sha256: 49dfe5a3483ac4e594591e1854096a343984536f4763318754295990d67cfbf0
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1305/Refine_8/refine.mtz
+        sha256: 5ecaf3af149c94ecf71bdb695b07785cb892c8deba4d52a38ce87941fe300af5
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1305/compound/ASAP-0035359-001.cif
+        sha256: 8f85db49eb3d8d193008baa7aa959fc81408a2122229a31d2b9c9551adec2d69
+  SARS2_Nprot-x1361:
+    type: model_building
+    last_updated: '2025-08-11 20:31:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1361/Refine_8/refine.pdb
+        sha256: 05b95b5fdc0c584a1bcb3e36ae4fde67727845e569f52931cba1e60be85dbbef
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1361/Refine_8/refine.mtz
+        sha256: d211f68b4cd14450e05f7ef2e1c96c81044d7c6f48d57b82715454bdae0018d7
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1361/compound/ASAP-0011111-001.cif
+        sha256: e58218fdd24a2a361a89088f438f4962e3d364325f03e2f69a88b81a3ed7f339
+  SARS2_Nprot-x1396:
+    type: model_building
+    last_updated: '2025-08-11 20:32:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1396/Refine_5/refine.pdb
+        sha256: e018146fdd89fb295ab1cd9159dbff3797c681a590a1478195d532410bdeaada
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1396/Refine_5/refine.mtz
+        sha256: 00cbfeb443508ea626626db9e1c48b08f34f191989b42b958c3f35b73d1379ab
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1396/compound/ASAP-0010782-001.cif
+        sha256: 9126d3495158ad212d977b6db5416b00338474d8803dcdd78762a5a62204e5e6
+  SARS2_Nprot-x1410:
+    type: model_building
+    last_updated: '2025-08-11 20:32:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1410/Refine_5/refine.pdb
+        sha256: 0e857b3a713a7d1032fb7915d845fe23826d5ffcd25db4404c61fc6e20453e39
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1410/Refine_5/refine.mtz
+        sha256: bb5dd0a1f524f9816d30caece4f92e511acbda22e9d19097188082552a6b47d7
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1410/compound/ASAP-0010771-001.cif
+        sha256: 2060f780ec8dd7fed392d16c78dd1b82b25462fa80e78bc2580400385ae74bbc
+  SARS2_Nprot-x1427:
+    type: model_building
+    last_updated: '2025-08-11 20:32:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1427/Refine_4/refine.pdb
+        sha256: 1932397f0cab1a172a8fd36b2e67e509c71d76a1f556f5d6c976844fc5fa3bdf
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1427/Refine_4/refine.mtz
+        sha256: bcf2e7eb0bb20cb5df1ca4b40e456abf41b3360ffa9486fce0f0ebeedac2d681
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1427/compound/ASAP-0010867-001.cif
+        sha256: 926242991705c9a05b3ff3f0970b9c1b1ce022a55ed7e11c72d50eb49e7d1b62
+  SARS2_Nprot-x1475:
+    type: model_building
+    last_updated: '2025-08-11 20:33:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1475/Refine_7/refine.pdb
+        sha256: facfaf12e7ec0755f2d6935760d2f61f594f5e8e9031d069bc36c55dc60a8f19
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1475/Refine_7/refine.mtz
+        sha256: 5e5e0b23aa6596fcce744d1e454f5a0f6298afb1e8a88ab0cc48ad8fe66aff14
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1475/compound/ASAP-0032648-001.cif
+        sha256: b3c51b468303b4666702c5986f653027ae64a2f26ed5080be77e9f848337ea36
+  SARS2_Nprot-x1491:
+    type: model_building
+    last_updated: '2025-08-11 20:33:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1491/Refine_4/refine.pdb
+        sha256: f827ea8862837c92b13b5cd9921b5b41ea49fd6a22bfb5bc810f26c4b7a5eb25
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1491/Refine_4/refine.mtz
+        sha256: b3032cd30a727c0774b003f5b923e1fc548baf0a90233f489a022458abe23a69
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1491/compound/ASAP-0035278-001.cif
+        sha256: 72642e4fa0c71733ade66bcef27597f90eceef264c296f0c15f509be32e566b4
+  SARS2_Nprot-x1498:
+    type: model_building
+    last_updated: '2025-08-11 20:33:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1498/Refine_5/refine.pdb
+        sha256: c6d4a2f51e3dde558e6fa24eec7d13185f5a64370c347bb1d22f5e3eaf3f3257
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1498/Refine_5/refine.mtz
+        sha256: dc3d81e7f1e16dd73ecbe042941e79da3ada63e164d09ab341e28ef72ea5ac2a
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1498/compound/ASAP-0034377-001.cif
+        sha256: 750778909e0755b91b41208b18fd3908910e8391f292773f444982734db8c9c6
+  SARS2_Nprot-x1574:
+    type: model_building
+    last_updated: '2025-08-11 20:35:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1574/Refine_8/refine.pdb
+        sha256: 888753626f94ecdfe33318cb93d290244a7ed981e304cbb05c5b9f3b849a941d
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1574/Refine_8/refine.mtz
+        sha256: a50f58bb4fbb2d346268e8c84401dc49b44ab48310d6890fcc50e9e25d3246b8
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1574/compound/ASAP-0032692-001.cif
+        sha256: fcc10a39a94a6883da8b9a1d11a8e1f92bf970dbcb56261becb42b117b332dd1
+  SARS2_Nprot-x1582:
+    type: model_building
+    last_updated: '2025-08-11 20:35:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1582/Refine_5/refine.pdb
+        sha256: 997d99db8f27e63d6cec2302729d4d2f5269a1622021af78cdd1a85689d4e522
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1582/Refine_5/refine.mtz
+        sha256: 1479700766146f07927bcaf607983a758a57f14ab338bd9d3e19f73bd9a2a23e
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1582/compound/ASAP-0035296-001.cif
+        sha256: 9b72b43ca5e61f4fa27b55e65dc9d2f95214519daa4895b92f95a8da06f36eee
+  SARS2_Nprot-x1585:
+    type: model_building
+    last_updated: '2025-08-11 20:35:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1585/Refine_6/refine.pdb
+        sha256: 7439516ea547b67c16f91d1d5d6357d91455836ae14401a81b4ac1571a69b88f
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1585/Refine_6/refine.mtz
+        sha256: 99bc0efbb956db40bcba90e129d49e1d9c02bef0f52f42c476d75b7e9de6e866
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1585/compound/ASAP-0036716-001.cif
+        sha256: 26c0d5bf5c5c2ef0a06643d1417af481e234aa8d468e1b13e4717bab2274f309
+  SARS2_Nprot-x1586:
+    type: model_building
+    last_updated: '2025-08-11 20:35:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1586/Refine_4/refine.pdb
+        sha256: e8c229bd168994809e181ceb2d5106cfb2bde2ee83e01635929ddbfe55c0ccba
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1586/Refine_4/refine.mtz
+        sha256: 0bda83d21473c617c9f396e420911c4455239aa011a4ab1cc01b9fd6cdf993ce
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1586/compound/ASAP-0037708-001.cif
+        sha256: 0e0859e6baa87e46450c0143135e0552e040b10c970cbdf213e805c6e7e9006e
+  SARS2_Nprot-x1594:
+    type: model_building
+    last_updated: '2025-08-11 20:35:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1594/Refine_7/refine.pdb
+        sha256: 47ed5509fa95be40e2e4352eed08744f130ecd563d7c6994b4e265c09b92f4bc
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1594/Refine_7/refine.mtz
+        sha256: 16b0e8d4e5aeefd85398f7970a60f1e71704a3414805f1c862cab224927915a0
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1594/compound/ASAP-0037744-001.cif
+        sha256: 8025c229574000fc67ab561a5ca97fb5e167cfbda76a96040488f1bf0c684709
+  SARS2_Nprot-x1626:
+    type: model_building
+    last_updated: '2025-08-11 20:35:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1626/Refine_4/refine.pdb
+        sha256: fa1f1775b13dcc06ad837b8fa68ee31e576cfb417c78bb41b4dad7375eafe230
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1626/Refine_4/refine.mtz
+        sha256: 6ae164535e332afc22220b1816572507288c14a56d19bcf0665ccc371623cfc2
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1626/compound/ASAP-0035318-001.cif
+        sha256: 79ebe5337ec701ecba51254e60eeda5b36762e1606ad73b03856f336a6cd29c2
+  SARS2_Nprot-x1651:
+    type: model_building
+    last_updated: '2025-08-11 20:36:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1651/Refine_5/refine.pdb
+        sha256: c380da772d8070ffd6e9672b6be54d3c1d29b33fba305feedbd1e266652552dd
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1651/Refine_5/refine.mtz
+        sha256: 2b099072c2b7d94f8db6700823324eb6736a4df3c0910be9c9787dad8bffb5f7
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1651/compound/ASAP-0036283-001.cif
+        sha256: 04a13abd7755a10a0b0a90b94f1f744371b58e6172bddbfa6d01b09ba8364028
+  SARS2_Nprot-x1882:
+    reference: true
+    type: model_building
+    last_updated: '2025-08-11 20:40:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1882/Refine_3/refine.pdb
+        sha256: 20cf72fc1240c778836affc55453f4987801ca595b01750550f4805557a38098
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1882/Refine_3/refine.mtz
+        sha256: 84fc67987fa5fa8eacedb309feddc368929bb2d0ff339c2f7c7959026ce7c161
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1882/compound/ASAP-0010966-001.cif
+        sha256: 8d12a54fed7477b8be696551786d507037c3745f5ac0527dceaa94b749fd0727
+  SARS2_Nprot-x1976:
+    type: model_building
+    last_updated: '2025-08-14 19:16:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: Nprot-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1976/Refine_5/refine.pdb
+        sha256: 23497f30081cab37ff6afa1c676fe1f61f11c43164d940b68730437793bd84d9
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1976/Refine_5/refine.mtz
+        sha256: a89cd4fd48ba9b8724f4b90760ffdac7fc1bbfe36f964db47fe125defebc91b7
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/analysis/model_building/SARS2_Nprot-x1976/compound/ASAP-0044845-001.cif
+        sha256: fd8356a78813a57b1d27285dafd51e564b7029fae85f995bef18954bc562899d
+  Nprot-x0072:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0072/Refine_0009/refine_9.split.bound-state.pdb
+        sha256: 1c7a886a93be2635f81f8f7a22f1ab1db189a81a29373cebf7c3493f2234afc5
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0072/Refine_0009/refine_9.mtz
+        sha256: b06b8762b2aed235e29e958722f90420d31555718183a73c1970a0c4148f9bf1
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0072/compound/Z2472938267.cif
+        sha256: aa006ecba61459724575c8aab61c5ca63b2b486f4923d0173b42323ba6421e09
+  Nprot-x0083:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0083/Refine_0012/refine_12.split.bound-state.pdb
+        sha256: 0512430829d2e1537657e95d14c014b390e3008422fb7f851f57d18d150dc3fd
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0083/Refine_0012/refine_12.mtz
+        sha256: cee93bc6a0c441fac31e389015d1110ec049b0878b680cd860ee24f72fd4b665
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0083/compound/Z2856434879.cif
+        sha256: e857d6e029e4e8168dbf394ce81f5d43046df7ebd1c53506bb9a9a1a5e654ecf
+  Nprot-x0084:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0084/Refine_0006/refine_6.split.bound-state.pdb
+        sha256: 998443863591a4508f37429d3e3be943d2c94dd5245b349da216e1c4b22948fe
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0084/Refine_0006/refine_6.mtz
+        sha256: 8dead7671f54ced712a1d0b5b09e0cca527fd5da40ded9ccbb31c0628334248d
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0084/compound/Z1416571195.cif
+        sha256: 2eb31bfc3a621ac2630eae9df140d69eacf4dcec02d50b3ab743873a2ab67381
+  Nprot-x0098:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0098/Refine_0006/refine_6.split.bound-state.pdb
+        sha256: af4605d8e428e44e4c589a1fb381fa012db3c06812470387abc37e7fcd2fe16d
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0098/Refine_0006/refine_6.mtz
+        sha256: 2386219c84df018c105979e9b4f437ce9b70b7edc56c03f1074f6810370b8d78
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0098/compound/Z275151340.cif
+        sha256: 872de17b2ba60e7605cc73fbf3023fa41d6fd35d300405f8f1230248fcea9a87
+  Nprot-x0125:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0125/Refine_0007/refine_7.split.bound-state.pdb
+        sha256: 9e577f3e9b4fbd09b29b0b3bc7eee2bfbd7fad192e917629e5d6b35753fea58b
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0125/Refine_0007/refine_7.mtz
+        sha256: 49abb698837fbed727b2ab0961516fe7d8453641e31654905a0198ceb608265e
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0125/compound/Z44592329.cif
+        sha256: ab8568562f5c26a3a0d8f7d28318a2288f5d256a085d0f4919c7d6a1eb01c8c6
+  Nprot-x0138:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0138/Refine_0010/refine_10.split.bound-state.pdb
+        sha256: eb09bf4447da8710ce09e58f30d7f1136713a9fde1fe060bdd3649f565dda22b
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0138/Refine_0010/refine_10.mtz
+        sha256: 7decbf212c6d50410695be4adf3de9d1e1d6b652e13035a7ee0ae291f1bb3470
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0138/compound/Z321318226.cif
+        sha256: 6f8f2cb7584dabca93ab3591e6015a3b84ef87905d7f4e9f12acc3d8cf35b41b
+  Nprot-x0180:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0180/Refine_0014/refine_14.split.bound-state.pdb
+        sha256: 158936d5257e24c7c6d1bcdf730f40d8d1e22ead24f1b9b5c848798ebee09ca7
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0180/Refine_0014/refine_14.mtz
+        sha256: 46b08e52cb8eb819a603f988f4a387607c1981b546b18b6539529d372b31e0a2
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0180/compound/Z2443429438.cif
+        sha256: 0add01c0b2c5f310fdfeddc18187bef85b3849d4155656bea8c051ee55256e3a
+  Nprot-x0190:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0190/Refine_0011/refine_11.split.bound-state.pdb
+        sha256: df72bb71164d49fed0b24f205eae4dafee79bdec4450181b95337fa0b475f3ae
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0190/Refine_0011/refine_11.mtz
+        sha256: fa7953e919cb7ed0e38b4cd32dfbe065ebbfddbcf1243d2ab8476ed39091161c
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0190/compound/Z1545313172.cif
+        sha256: 596d01175f76f0f462416196a7ace800111cc6dd92911fa3d8cb9bba2c94caae
+  Nprot-x0220:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0220/Refine_0010/refine_10.split.bound-state.pdb
+        sha256: d4db39c5603ad11132bc2c474d23e865207de649954845214d8c8570f7486192
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0220/Refine_0010/refine_10.mtz
+        sha256: 44663718e945b0f72e9ee0284e539526bd6138df93c4d3b9e9eaa426d5b55442
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0220/compound/Z2234920345.cif
+        sha256: 7f07dc46195e3b47cdb1b4440d6c777078a070c3206863ee66248e3185ba28a8
+  Nprot-x0230:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0230/Refine_0016/refine_16.split.bound-state.pdb
+        sha256: f16614262fb53933504e10fe45f2212459fcaaff7fbc99489306d0672565aea9
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0230/Refine_0016/refine_16.mtz
+        sha256: d96c553e3043e46d77e2df23fb37710074cf657ba6250bb2d212466bc2c70493
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0230/compound/Z31385861.cif
+        sha256: cd144a5473ab8285f2b9d331a1c10ec5900f9687319e92f472dc2d9a0e1143b4
+  Nprot-x0249:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0249/Refine_0009/refine_9.split.bound-state.pdb
+        sha256: 2c16e173b29a707a92907f905a7946e300da757994cab038c906cdae963acff3
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0249/Refine_0009/refine_9.mtz
+        sha256: 694631760675e363fc26193d2a0bf2efd2ad3575f9af1e085a5b58a87e5d67c3
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0249/compound/Z907784200.cif
+        sha256: dda10c61c989f1ffe9c56c2c76ae35c366dddc40189acf0e3503cc7432a50ba6
+  Nprot-x0263:
+    type: model_building
+    last_updated: '2025-10-07 11:24:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0263/Refine_0006/refine_6.split.bound-state.pdb
+        sha256: a7454fbad7dce2108e4a854da6c708b96a30a137fb22e33378ba3241a551bec1
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0263/Refine_0006/refine_6.mtz
+        sha256: 1395c786c731946d0bdfb7a454ce6d02cfa8aa92ff6eaae049d647501b153014
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0263/compound/Z1259341037.cif
+        sha256: 9e5854986145027a445cda585593d526bc024a436eecf7666f6f29d1b9d26eec
+  Nprot-x0275:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0275/Refine_0011/refine_11.split.bound-state.pdb
+        sha256: 5513192ae4c3e01c360b09519e4230a793cd431b2da89ac919cb990af20489c2
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0275/Refine_0011/refine_11.mtz
+        sha256: ce7d92488099a064d9cddfdc285f7c5483e5049fb214f86648595a8a47dbc808
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0275/compound/Z56837087.cif
+        sha256: d58e47fa261f694b73960bc99fa6da5b64efac58ed0760bb4440b221fa8fe03b
+  Nprot-x0300:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0300/Refine_0013/refine_13.split.bound-state.pdb
+        sha256: 0d20c13354a82b3906365d4d9f08ea992a38b952b8712c1670c9113b0ce55214
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0300/Refine_0013/refine_13.mtz
+        sha256: 605893017d9024a36842a77ef80c68c6c22f9ef5eae7b2d41545f83518d96cf7
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0300/compound/Z1673618163.cif
+        sha256: 79f40fa661520abc1c148cb34b02234e8807de14da038a47e7c377f9bb828810
+  Nprot-x0303:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0303/Refine_0010/refine_10.split.bound-state.pdb
+        sha256: 909dce6fc15cc463abcac0a849b8d81c5770dedfd55029683e210090f10f5b46
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0303/Refine_0010/refine_10.mtz
+        sha256: 0f018b6dea69a5c89150c719673f6e5bde3de8ab6d6f5009e8378e41c533cfcc
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0303/compound/Z56791867.cif
+        sha256: 4591bef2445147b1e2e5dd946869913417c039d3823598b01cfc62c5052e7e9a
+  Nprot-x0318:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0318/Refine_0012/refine_12.split.bound-state.pdb
+        sha256: 7fcf4fd0550234044b1790100775b39e91d749878f8ee6ed74d81f83be495a9e
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0318/Refine_0012/refine_12.mtz
+        sha256: 4480be36733149a5f80be3cfdea21394f12f66f36e9c22e7ed3b6055b07996b0
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0318/compound/Z57472297.cif
+        sha256: 481860e941923d8e3a3a2c1fc79745471be90d46645665b1a8dc47c3be6d8435
+  Nprot-x0329:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0329/Refine_0011/refine_11.split.bound-state.pdb
+        sha256: 14c4a17985fc3732245cec46fae6c153e868d98a75966f0ca254a50bde26d631
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0329/Refine_0011/refine_11.mtz
+        sha256: 0ae0c23d923e8ab6dc2d6575d3b9c777d9ffaf350353a53d8abba8548d61a92d
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0329/compound/Z319545618.cif
+        sha256: cf3c27bdb286b7b0ff3423005be1d5a1dc07e0148d23958d80c13308532cb0f9
+  Nprot-x0334:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0334/Refine_0009/refine_9.split.bound-state.pdb
+        sha256: c725e7ea85903ede24cc55357250448346fe83ea0562f5e65badb84627e83bf6
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0334/Refine_0009/refine_9.mtz
+        sha256: e56b3f57043ace57c3936a0adbbd7c4a19775e95f463811e59b90f92e5d6eed0
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0334/compound/Z1273312153.cif
+        sha256: 454eadda2e0340df164a63eb4c7807225ba2d5359d13929c2b1ede99e7a6d9a7
+  Nprot-x0340:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0340/Refine_0014/refine_14.split.bound-state.pdb
+        sha256: 84cc6348ec7563fe66cb4b6d018387baa1645f8280e64565ffaad86a2b515891
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0340/Refine_0014/refine_14.mtz
+        sha256: d6883556e7a9c957fdb4bed2d87502215f020498f28d5f4ba21469f8afbd7f25
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0340/compound/Z969560582.cif
+        sha256: 7c6947f7a54411fd3fa69a92925e8bc0443e75d0bc914bd257bb76b50997f37a
+  Nprot-x0343:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0343/Refine_0008/refine_8.split.bound-state.pdb
+        sha256: 7ddefdf6ffcd56a5dc8d8ae0d4fb189b196ed579ec315aec202d67434375bb63
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0343/Refine_0008/refine_8.mtz
+        sha256: 1e2e8a1ca20e82b4d7cc9493b4ab200827c1880c53ed957d04be583162b1a57a
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0343/compound/Z45527714.cif
+        sha256: d94aa012a5417aaecce68aa35624a82e5eef20a1c6150d5e8dfae3ddecdcb919
+  Nprot-x0345:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0345/Refine_0007/refine_7.split.bound-state.pdb
+        sha256: cbf167e8e123f64c0d55aa5f55044774ed90f25f51715e946b6367692f78b145
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0345/Refine_0007/refine_7.mtz
+        sha256: 3a32ad3ce34b27104c85f8f0683e947c2760edda57cd1ec3b7d3e77dd88eb504
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0345/compound/Z26781964.cif
+        sha256: 1e3e143bbccbbba9cb29a52490d2d6ce9289e54e511a9939f7370be02c4f88e5
+  Nprot-x0358:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0358/Refine_0009/refine_9.split.bound-state.pdb
+        sha256: 8983e51f2674205c23275dd1c293a6e331c32a7be9fd821cfe54ab34d1233a5b
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0358/Refine_0009/refine_9.mtz
+        sha256: b2d29bf6f0064fa94d0c6c9ea9bb9541120b040ccc2a54cb02c14c282b8f1305
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0358/compound/Z29077827.cif
+        sha256: ab3df9ea95f37114bc2a9f1a74680f5fc27631bf3ce26b9d2c2dc3ce284934cf
+  Nprot-x0359:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0359/Refine_0015/refine_15.split.bound-state.pdb
+        sha256: 6dc61605cb6cc9092ae66807a989a4a80fc84a1b81713e7e72c3b950436ca9b0
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0359/Refine_0015/refine_15.mtz
+        sha256: 03142a28c0b827e4ef98caf9b1a91ab2df97b6a10f537c0912cb8899420b8133
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0359/compound/Z31478538.cif
+        sha256: e466cd9b135ab0726cbab4312f5444b6b7c3dc389c55e2121408908767b7dd7d
+  Nprot-x0361:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0361/Refine_0008/refine_8.split.bound-state.pdb
+        sha256: 2d954b1b73f2850f18169d19bbbeee83eff83c7513ddf742d556e94042133f1a
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0361/Refine_0008/refine_8.mtz
+        sha256: 612aa23370312a5546d55df52eb23181f18e137cdde1c936952afb6c990aac9d
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0361/compound/Z19733482.cif
+        sha256: 191f11a0c466523c4fd9ab9b5445448f0e04c0141203c08fc6990cec9664f57e
+  Nprot-x0369:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0369/Refine_0014/refine_14.split.bound-state.pdb
+        sha256: 6391b32a1a0a4ee75b84fb520ef8380a916daf2d15cec150bc9bdb2fe2e839a6
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0369/Refine_0014/refine_14.mtz
+        sha256: aeb526972863a1c1888b285350314ad6355932571d9399ac0fac291eef6fb953
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0369/compound/Z1563512128.cif
+        sha256: 64314160e19d2d5bf0c114561c23bdf06caefde6129ca9e46451971df07ebf95
+  Nprot-x0372:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0372/Refine_0012/refine_12.split.bound-state.pdb
+        sha256: a29a9ea49835234e97d3e4d38992ec544c7c9f315d7604890da7864b5c855d40
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0372/Refine_0012/refine_12.mtz
+        sha256: a54b9cd54f45256c1874d71983d31d26a43b23973af04e8b6ea6946898710794
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0372/compound/Z235341991.cif
+        sha256: 0f4efae46a62119757cee8b1770ec603440d160ef02d99858b9b1677b4468680
+  Nprot-x0374:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0374/Refine_0006/refine_6.split.bound-state.pdb
+        sha256: d5420228000f357b7a3aa6e70b5fe40295bcb79746fc1d59c3d5fc390d084f0f
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0374/Refine_0006/refine_6.mtz
+        sha256: 6f74241c89db64289db2be4d27af016b41179e7e9ee738c49c2b9bcc25a2e8c9
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0374/compound/Z2856434779.cif
+        sha256: d8ea24b172f41f0a4a198bca16f078535c3a9bfc84e740f9acc31a80f517caa1
+  Nprot-x0385:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0385/Refine_0013/refine_13.split.bound-state.pdb
+        sha256: 34a9ad866753d66894e0fbdf6ac001ab1f316c5f841e0f9eedf64ea30c9a6c90
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0385/Refine_0013/refine_13.mtz
+        sha256: 67b7b358c64a776dddef5ce856976a7afc881f814c079c13cc294f0d2fba9174
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0385/compound/Z453319206.cif
+        sha256: b26e7a56c8d0baab2c6a9b2e94fea1fe8a4f96b898eee1b629559ccf9ff53731
+  Nprot-x0389:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0389/Refine_0012/refine_12.split.bound-state.pdb
+        sha256: 589a41ae0edfd7397e679de444ce940045c3b1d2711db9678711a7408776ab6b
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0389/Refine_0012/refine_12.mtz
+        sha256: 8b0a9de5e7b1a57678075bcb9d3227e7729a0d52579be6ff10fff0ff51650341
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0389/compound/Z1407672867.cif
+        sha256: 7b80c59f41a24e724b4f0f2572f9bf2312fa20a6d0ce07dece94ed34378fbad0
+  Nprot-x0390:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0390/Refine_0015/refine_15.split.bound-state.pdb
+        sha256: 151a46f6f3ea1bf14b9080fb15585e7fce62385cf47a67bd26284e6aca5af8b9
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0390/Refine_0015/refine_15.mtz
+        sha256: 045ea5c68e6854b37e036dac8bd76df6718baf8c6ce3c45ac22441142d5587b0
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0390/compound/Z2697514548.cif
+        sha256: 1be3aa6c7f0c72f714a0a305e21a091c04c68d89bd9ce03bbaa816fdee84d8a3
+  Nprot-x0392:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0392/Refine_0012/refine_12.split.bound-state.pdb
+        sha256: f8ea00993b3c5381763cf3b413724831e1ab70682df3ebc8d56dee714aa29127
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0392/Refine_0012/refine_12.mtz
+        sha256: 85031f3b2af883ec201d03bac3c9d9f2712ebf43e5c7f80cc44e81a8b8e5db87
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0392/compound/Z1267882044.cif
+        sha256: c489a914c2be008cc839b61d64310aa5a1ca8a3a62375f0b686a0df80535cc75
+  Nprot-x0395:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0395/Refine_0005/refine_5.split.bound-state.pdb
+        sha256: ebd77677875f4121ca658d00363446d8477fbbfc83ac4580c7318fbbaf210d9d
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0395/Refine_0005/refine_5.mtz
+        sha256: c4b179d634d13a9467572daa24c5264dea4e1f985ce71ffc00fb92bc818be9da
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0395/compound/Z45617795.cif
+        sha256: d0fc7349803d6194ad748a4515ce04636768fae39036170f269a0b51e9ee0fec
+  Nprot-x0401:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0401/Refine_0022/refine_22.split.bound-state.pdb
+        sha256: 034e9ad7446cfab4996be92014efb83a2d0aa65568307a0dbffd49e257dcdb7b
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0401/Refine_0022/refine_22.mtz
+        sha256: 1b4a004ed674e636a898a1d20290b1b5420c293d14b9936f2bf7b25b1b195482
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0401/compound/Z1407673036.cif
+        sha256: 1f92d3931482445b713768ea2440d3f08af326303dd642a8450006d8f24ca0dc
+  Nprot-x0403:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0403/Refine_0015/refine_15.split.bound-state.pdb
+        sha256: 2bbe1d3673552377673278f8e6ecb5d05d3fd272ad02f401771818322267248e
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0403/Refine_0015/refine_15.mtz
+        sha256: 64597fed8fcff649f72400314e6b2fd3593c298aec0f7e5d8111c28f7c518a60
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0403/compound/Z2527301677.cif
+        sha256: 357c0427149686047f30a63e1f037602e59d4c58d4021c76ddd16579cf93fb0f
+  Nprot-x0412:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0412/Refine_0013/refine_13.split.bound-state.pdb
+        sha256: b3b1997d620d749c5aaaa684665ad851f12e64d9e0cc57f20946897a228c5fba
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0412/Refine_0013/refine_13.mtz
+        sha256: 470c9aeb8d3fc82d691f931a048e5eb90b2713b996e72cf1b3828618e210d736
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0412/compound/Z1270312110.cif
+        sha256: 9bf5005c811e7cb9cbae7a2afe026b3e6c9d36a305298d7d7bf7238e9f16ee95
+  Nprot-x0423:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0423/Refine_0013/refine_13.split.bound-state.pdb
+        sha256: 8adf984cb421745353f3fd213cb801542f75856d591649ada6a2105ecd922358
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0423/Refine_0013/refine_13.mtz
+        sha256: f7f35cc78e5587d54e863605f465c087fdd6836ecfa3fcefb257689852990e6f
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0423/compound/Z1220452176.cif
+        sha256: 1e77083ceffa0f651798ffab8cec3d8906e4390db378b56a9f0e1379e5f1c944
+  Nprot-x0438:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0438/Refine_0016/refine_16.split.bound-state.pdb
+        sha256: c6aa282a039e3d50ac1c7901ff412b3602044b639e9fa499ee04aa5717a6e73e
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0438/Refine_0016/refine_16.mtz
+        sha256: bd04739f240a66434a9047d2164be50a3a6a3fec547476b2c5906384d900366f
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0438/compound/Z166605480.cif
+        sha256: 854a3450abab3618ac9462e09aa006dbb5e773e8792c9610d26e916b6d28273a
+  Nprot-x0467:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0467/Refine_0012/refine_12.split.bound-state.pdb
+        sha256: 884bedd614aa985df3f2abd6e10e94433f99d3770ff0c99683e7278b58aabd14
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0467/Refine_0012/refine_12.mtz
+        sha256: f878a8dee185a7f79530a87e1f9d621c9f8709912b37f5e0e6a52068fa739a09
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0467/compound/Z744754722.cif
+        sha256: 6833105b2827c7430fd99e325e75ddce16fcb9ef34c1531e63ab7801575b10b3
+  Nprot-x0477:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0477/Refine_0007/refine_7.split.bound-state.pdb
+        sha256: 42eb1e10eb2c34daac453a836e3ba57cc28e62d8f9a691e3d642bb58c336703a
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0477/Refine_0007/refine_7.mtz
+        sha256: 74586ac322386a55ef70d8df12b253e483d3d092977ed67c32eb7d90fa926e76
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0477/compound/Z68404778.cif
+        sha256: 1b8ead416aa1d24bb8a6852309d0663787bceeba6f5c948d0b5a2c43bf6b69d4
+  Nprot-x0483:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0483/Refine_0012/refine_12.split.bound-state.pdb
+        sha256: f4f44a6a0d314ca3ccbb0ee1d9713a8d7daaca664a8f0386755cbf8c70f75cfa
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0483/Refine_0012/refine_12.mtz
+        sha256: 428ab8eb0ee71e046e79d73727d254effbc9b73b5f955ba1cd1a6d39f73e742c
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0483/compound/Z805551440.cif
+        sha256: 45a50a3f00aac609980770ea5096ff26781892c63e1134a370b0052ae9b2d6df
+  Nprot-x0488:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0488/Refine_0008/refine_8.split.bound-state.pdb
+        sha256: 1ec295a7751ad26d80a1f59890e51193f8d3e31fe59e4ee166bd689ee37193ba
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0488/Refine_0008/refine_8.mtz
+        sha256: f129f59ba2545e0c8ad9edf8e72d3ae7bac701146813d97f5a4022b6ec25a6a7
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0488/compound/Z2027049478.cif
+        sha256: 148a87ef2596b4e0f8a7c2380290c955154716d495e1e4d85a63cb54dc633ba8
+  Nprot-x0525:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0525/Refine_0014/refine_14.split.bound-state.pdb
+        sha256: 493f4f7dd84ddfc007641869692a46529218ba86f8f4c52a42a0e87ba23a7600
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0525/Refine_0014/refine_14.mtz
+        sha256: 04ce51d3ec10cb123074a4dd95afb9ac681aca971bd380f7cd98a17808a82985
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0525/compound/Z1954800564.cif
+        sha256: 06b89a75db9683d40ee56cb27a98085b74d60f126d5189a5504799459b2c5155
+  Nprot-x0540:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0540/Refine_0008/refine_8.split.bound-state.pdb
+        sha256: 9e0eb06b3b549fdbe109844a881bc711710061eb2ebb213fced822959437ad9b
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0540/Refine_0008/refine_8.mtz
+        sha256: 6b8cc3cc05191f45d7c568ee948169124160d737ac1264558026f7fb0dcdab38
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0540/compound/Z165170770.cif
+        sha256: 0022d030c9b0efa8df1a5e660b6fc23990c24f70b9f060f00ac2ff878dbad0e9
+  Nprot-x0543:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0543/Refine_0014/refine_14.split.bound-state.pdb
+        sha256: b4b4edc6df58123286a63ea5a75e4b36d44188bfa28d13de924fe651c2de79b8
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0543/Refine_0014/refine_14.mtz
+        sha256: 4b322765ca4c76a5cb9a1770a9a229e929f8030fdba7776055ec2f4dd73665ec
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0543/compound/Z1639162606.cif
+        sha256: 31e9eb14d0cbd1181cfd7429da5362ac4220c192d75ea4321f07b9bc19e59eaa
+  Nprot-x0552:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0552/Refine_0007/refine_7.split.bound-state.pdb
+        sha256: 587d3d3c29b17f863be20c42ba27531f7786ed572dfc91fd77cef5b660c78587
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0552/Refine_0007/refine_7.mtz
+        sha256: 8b6cf110b4fe1cbb8d108d020374b7baa514dd67afc336822997fcdb5946c3a2
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0552/compound/Z198195774.cif
+        sha256: cd4272ea366e4508f8acb4c7fe31750c84e4d802136615d6ded788775ff2c94c
+  Nprot-x0556:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0556/Refine_0011/refine_11.split.bound-state.pdb
+        sha256: c17044bc154bf85fd53404a5ed5c6cb2939161956a5b5073b7089b8299bd9ba0
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0556/Refine_0011/refine_11.mtz
+        sha256: 914d7a86aa331d52256abaf076758ea5b9c3e1fcfa5713b9a757b74dc01b2e5c
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0556/compound/Z33546965.cif
+        sha256: 26669fc98f9c617e99462b30443827ff4af08dda62486d0e6536755f7e84b6aa
+  Nprot-x0615:
+    type: model_building
+    last_updated: '2025-09-11 11:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0615/Refine_0009/refine_9.split.bound-state.pdb
+        sha256: 54ea78425bf8e75455f871b4fee2d6a78dea50f5c680b88b8430c8a9171f6473
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0615/Refine_0009/refine_9.mtz
+        sha256: 536a3f6b43a0cf40904caa034cc7e58592cc519e2b0b849ceee6620d6d7504a0
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0615/compound/Z28870646.cif
+        sha256: db98d9a155b3086d34728865ee47b439e06f56e782b8000f079760e22b9eb0d6
+  Nprot-x0616:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0616/Refine_0012/refine_12.split.bound-state.pdb
+        sha256: 1fc8ddd884132a3655af64bec02a94d9869bb3222becfb4fb4c7e95fa6f3a9d0
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0616/Refine_0012/refine_12.mtz
+        sha256: f44e0ffa0146f4beb5ed94f5f3edcf0332759b027c7b37f04b5e9cf3fdcc418a
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0616/compound/Z1359419878.cif
+        sha256: 6b3f34c07dafe776a7238c8af4829c9b8f0874cb26bac56a4ad26e676d19708c
+  Nprot-x0642:
+    type: model_building
+    last_updated: '2025-09-28 10:08:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0642/Refine_0010/refine_10.split.bound-state.pdb
+        sha256: 28e9530c8433ce6765909ed57249248dd17d1dd935e35a9f50e9b2e07faa057f
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0642/Refine_0010/refine_10.mtz
+        sha256: 765a29df6ad342c5bb5ff05aac4549b51a1c1856c02a4a5833c0de605c8733a1
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0642/compound/Z2204875953.cif
+        sha256: f6d022fb7545c2a483467b4cd2529b19a5e6433f8f6c07ce530092d8cb34ecc0
+  Nprot-x0648:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0648/Refine_0010/refine_10.split.bound-state.pdb
+        sha256: af87b0fdf3f9757bdb3af62e6450b0c45e9c548c00b0a411cd65ba713a9f3c72
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0648/Refine_0010/refine_10.mtz
+        sha256: edd1773464504e52e9249a6c78a996a69f87c42fa67cfb38a66a20606ee4747c
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0648/compound/Z1530301542.cif
+        sha256: 36f1a1c5c4ac723753885d7b90f956bc51be94b62155b40ae1ada7dbcc707616
+  Nprot-x0656:
+    type: model_building
+    last_updated: '2025-09-28 10:49:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: Nprot-frag-x
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0656/Refine_0009/refine_9.split.bound-state.pdb
+        sha256: be1413403fea8b67af67486d6e5eb5242585043d3b176a7e88f2022c70249ba9
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0656/Refine_0009/refine_9.mtz
+        sha256: 0e317617ecf751d4425bdc4e5736e5a145b256a8e94ce62abc315634feaa637e
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/model_building/Nprot-x0656/compound/Z102768020.cif
+        sha256: 61b56393330eb132befb1153e1e93cc90d5fd3f6df5bd0ccb6a5a2ffc4498152

@@ -1,0 +1,173 @@
+INFO: initialising logging at level 0 at 2025-11-14 13:24:35.915715
+INFO: Using /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1 as current version dir
+INFO: Running aligner...
+INFO: Performing alignments
+INFO: First run! Not updating!
+INFO: Got 80 datasets
+INFO: Dataset SARS2_Nprot-A0239 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-A0240 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-A0383 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-A0438 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-A0497 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x0797 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1108 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1124 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1135 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1167 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1285 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1299 has 2 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1305 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1361 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1396 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1410 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1427 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1475 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1491 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1498 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1574 has 2 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1582 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1585 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1586 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1594 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1626 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1651 has 2 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1882 has 2 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1976 has 1 ligand binding events!
+INFO: Dataset Nprot-x0072 has 1 ligand binding events!
+INFO: Dataset Nprot-x0083 has 1 ligand binding events!
+INFO: Dataset Nprot-x0084 has 2 ligand binding events!
+INFO: Dataset Nprot-x0098 has 1 ligand binding events!
+INFO: Dataset Nprot-x0125 has 1 ligand binding events!
+INFO: Dataset Nprot-x0138 has 1 ligand binding events!
+INFO: Dataset Nprot-x0180 has 2 ligand binding events!
+INFO: Dataset Nprot-x0190 has 1 ligand binding events!
+INFO: Dataset Nprot-x0220 has 1 ligand binding events!
+INFO: Dataset Nprot-x0230 has 1 ligand binding events!
+INFO: Dataset Nprot-x0249 has 1 ligand binding events!
+INFO: Dataset Nprot-x0263 has 1 ligand binding events!
+INFO: Dataset Nprot-x0275 has 1 ligand binding events!
+INFO: Dataset Nprot-x0300 has 1 ligand binding events!
+INFO: Dataset Nprot-x0303 has 1 ligand binding events!
+INFO: Dataset Nprot-x0318 has 1 ligand binding events!
+INFO: Dataset Nprot-x0329 has 1 ligand binding events!
+INFO: Dataset Nprot-x0334 has 2 ligand binding events!
+INFO: Dataset Nprot-x0340 has 1 ligand binding events!
+INFO: Dataset Nprot-x0343 has 1 ligand binding events!
+INFO: Dataset Nprot-x0345 has 1 ligand binding events!
+INFO: Dataset Nprot-x0358 has 1 ligand binding events!
+INFO: Dataset Nprot-x0359 has 1 ligand binding events!
+INFO: Dataset Nprot-x0361 has 2 ligand binding events!
+INFO: Dataset Nprot-x0369 has 1 ligand binding events!
+INFO: Dataset Nprot-x0372 has 1 ligand binding events!
+INFO: Dataset Nprot-x0374 has 1 ligand binding events!
+INFO: Dataset Nprot-x0385 has 1 ligand binding events!
+INFO: Dataset Nprot-x0389 has 2 ligand binding events!
+INFO: Dataset Nprot-x0390 has 2 ligand binding events!
+INFO: Dataset Nprot-x0392 has 2 ligand binding events!
+INFO: Dataset Nprot-x0395 has 1 ligand binding events!
+INFO: Dataset Nprot-x0401 has 1 ligand binding events!
+INFO: Dataset Nprot-x0403 has 1 ligand binding events!
+INFO: Dataset Nprot-x0412 has 1 ligand binding events!
+INFO: Dataset Nprot-x0423 has 1 ligand binding events!
+INFO: Dataset Nprot-x0438 has 1 ligand binding events!
+INFO: Dataset Nprot-x0467 has 1 ligand binding events!
+INFO: Dataset Nprot-x0477 has 1 ligand binding events!
+INFO: Dataset Nprot-x0483 has 1 ligand binding events!
+INFO: Dataset Nprot-x0488 has 1 ligand binding events!
+INFO: Dataset Nprot-x0525 has 2 ligand binding events!
+INFO: Dataset Nprot-x0540 has 1 ligand binding events!
+INFO: Dataset Nprot-x0543 has 1 ligand binding events!
+INFO: Dataset Nprot-x0552 has 1 ligand binding events!
+INFO: Dataset Nprot-x0556 has 1 ligand binding events!
+INFO: Dataset Nprot-x0615 has 1 ligand binding events!
+INFO: Dataset Nprot-x0616 has 1 ligand binding events!
+INFO: Dataset Nprot-x0642 has 1 ligand binding events!
+INFO: Dataset Nprot-x0648 has 1 ligand binding events!
+INFO: Dataset Nprot-x0656 has 1 ligand binding events!
+INFO: Got 1 reference datasets
+INFO: Got 80 new datasets
+INFO: Got 1 assemblies
+INFO: Got 1 xtalforms
+INFO: Got 0 ligand neighbourhoods
+INFO: looking at SARS2_Nprot-A0239
+INFO: looking at SARS2_Nprot-A0240
+INFO: looking at SARS2_Nprot-A0383
+INFO: looking at SARS2_Nprot-A0438
+INFO: looking at SARS2_Nprot-A0497
+INFO: looking at SARS2_Nprot-x0797
+INFO: looking at SARS2_Nprot-x1108
+INFO: looking at SARS2_Nprot-x1124
+INFO: looking at SARS2_Nprot-x1135
+INFO: looking at SARS2_Nprot-x1167
+INFO: looking at SARS2_Nprot-x1285
+INFO: looking at SARS2_Nprot-x1299
+INFO: looking at SARS2_Nprot-x1305
+INFO: looking at SARS2_Nprot-x1361
+INFO: looking at SARS2_Nprot-x1396
+INFO: looking at SARS2_Nprot-x1410
+INFO: looking at SARS2_Nprot-x1427
+INFO: looking at SARS2_Nprot-x1475
+INFO: looking at SARS2_Nprot-x1491
+INFO: looking at SARS2_Nprot-x1498
+INFO: looking at SARS2_Nprot-x1574
+INFO: looking at SARS2_Nprot-x1582
+INFO: looking at SARS2_Nprot-x1585
+INFO: looking at SARS2_Nprot-x1586
+INFO: looking at SARS2_Nprot-x1594
+INFO: looking at SARS2_Nprot-x1626
+INFO: looking at SARS2_Nprot-x1651
+INFO: looking at SARS2_Nprot-x1882
+INFO: looking at SARS2_Nprot-x1976
+INFO: looking at Nprot-x0072
+INFO: looking at Nprot-x0083
+INFO: looking at Nprot-x0084
+INFO: looking at Nprot-x0098
+INFO: looking at Nprot-x0125
+INFO: looking at Nprot-x0138
+INFO: looking at Nprot-x0180
+INFO: looking at Nprot-x0190
+INFO: looking at Nprot-x0220
+INFO: looking at Nprot-x0230
+INFO: looking at Nprot-x0249
+INFO: looking at Nprot-x0263
+INFO: looking at Nprot-x0275
+INFO: looking at Nprot-x0300
+INFO: looking at Nprot-x0303
+INFO: looking at Nprot-x0318
+INFO: looking at Nprot-x0329
+INFO: looking at Nprot-x0334
+INFO: looking at Nprot-x0340
+INFO: looking at Nprot-x0343
+INFO: looking at Nprot-x0345
+INFO: looking at Nprot-x0358
+INFO: looking at Nprot-x0359
+INFO: looking at Nprot-x0361
+INFO: looking at Nprot-x0369
+INFO: looking at Nprot-x0372
+INFO: looking at Nprot-x0374
+INFO: looking at Nprot-x0385
+INFO: looking at Nprot-x0389
+INFO: looking at Nprot-x0390
+INFO: looking at Nprot-x0392
+INFO: looking at Nprot-x0395
+INFO: looking at Nprot-x0401
+INFO: looking at Nprot-x0403
+INFO: looking at Nprot-x0412
+INFO: looking at Nprot-x0423
+INFO: looking at Nprot-x0438
+INFO: looking at Nprot-x0467
+INFO: looking at Nprot-x0477
+INFO: looking at Nprot-x0483
+INFO: looking at Nprot-x0488
+INFO: looking at Nprot-x0525
+INFO: looking at Nprot-x0540
+INFO: looking at Nprot-x0543
+INFO: looking at Nprot-x0552
+INFO: looking at Nprot-x0556
+INFO: looking at Nprot-x0615
+INFO: looking at Nprot-x0616
+INFO: looking at Nprot-x0642
+INFO: looking at Nprot-x0648
+INFO: looking at Nprot-x0656
+INFO: removing 0 empty aligned_files dirs
+INFO: Handled 0 alignments in 81 secs

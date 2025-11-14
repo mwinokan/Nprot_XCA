@@ -1,0 +1,17 @@
+INFO: initialising logging at level 0 at 2025-11-14 13:19:25.826755
+INFO: found 2 inputs
+INFO: Excluded datasets: []
+INFO: adding input dls/labxchem/data/lb32627/lb32627-93 with 13 panddas event maps
+INFO: Excluded datasets: []
+INFO: adding input dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1 with 1 panddas event maps
+INFO: collator:  Namespace(dir=None, log_level=0, validate=False, no_git_info=True, no_validate_configs=False)
+ERROR: Unexpected base directory found. Expected upload-v3 but found upload-v2
+INFO: migrating data for new data format version 3.0
+INFO: creating new working dir /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-v3
+INFO: copying config.yaml and assemblies.yaml
+INFO: removing /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current symlink
+INFO: creating symlink /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current -> /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-v3
+INFO: A new directory upload-v3 for data format version 3.0 has been created and the current config.yaml and assemblies.yaml have been copied there. 
+      It is possible that you might need to update those files. 
+      The old data is in a directory named upload_v? where ? is the old version number 
+      Once ready you can re-run collator using the same command you just used,maybe updating the name of the directory to 'upload-current'.

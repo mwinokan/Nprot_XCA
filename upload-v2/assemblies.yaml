@@ -1,0 +1,12 @@
+assemblies:
+    dimer:
+        reference: SARS2_Nprot-x1882
+        biomol: A,B
+        chains: A,A(-X,-Y,Z)
+crystalforms:
+    I41:
+        reference: SARS2_Nprot-x1882
+        assemblies:
+            AA:
+                assembly: dimer
+                chains: A,A(-X,-Y,Z)

@@ -1,0 +1,426 @@
+INFO: initialising logging at level 0 at 2025-11-14 13:16:58.445863
+INFO: Using /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1 as current version dir
+INFO: Running aligner...
+INFO: Performing alignments
+INFO: First run! Not updating!
+INFO: Got 80 datasets
+INFO: Dataset SARS2_Nprot-A0239 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-A0240 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-A0383 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-A0438 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-A0497 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x0797 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1108 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1124 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1135 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1167 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1285 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1299 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1305 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1361 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1396 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1410 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1427 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1475 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1491 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1498 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1574 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1582 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1585 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1586 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1594 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1626 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1651 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1882 has 1 ligand binding events!
+INFO: Dataset SARS2_Nprot-x1976 has 1 ligand binding events!
+INFO: Dataset Nprot-x0072 has 1 ligand binding events!
+INFO: Dataset Nprot-x0083 has 1 ligand binding events!
+INFO: Dataset Nprot-x0084 has 2 ligand binding events!
+INFO: Dataset Nprot-x0098 has 1 ligand binding events!
+INFO: Dataset Nprot-x0125 has 1 ligand binding events!
+INFO: Dataset Nprot-x0138 has 1 ligand binding events!
+INFO: Dataset Nprot-x0180 has 2 ligand binding events!
+INFO: Dataset Nprot-x0190 has 1 ligand binding events!
+INFO: Dataset Nprot-x0220 has 1 ligand binding events!
+INFO: Dataset Nprot-x0230 has 1 ligand binding events!
+INFO: Dataset Nprot-x0249 has 1 ligand binding events!
+INFO: Dataset Nprot-x0263 has 1 ligand binding events!
+INFO: Dataset Nprot-x0275 has 1 ligand binding events!
+INFO: Dataset Nprot-x0300 has 1 ligand binding events!
+INFO: Dataset Nprot-x0303 has 1 ligand binding events!
+INFO: Dataset Nprot-x0318 has 1 ligand binding events!
+INFO: Dataset Nprot-x0329 has 1 ligand binding events!
+INFO: Dataset Nprot-x0334 has 2 ligand binding events!
+INFO: Dataset Nprot-x0340 has 1 ligand binding events!
+INFO: Dataset Nprot-x0343 has 1 ligand binding events!
+INFO: Dataset Nprot-x0345 has 1 ligand binding events!
+INFO: Dataset Nprot-x0358 has 1 ligand binding events!
+INFO: Dataset Nprot-x0359 has 1 ligand binding events!
+INFO: Dataset Nprot-x0361 has 1 ligand binding events!
+INFO: Dataset Nprot-x0369 has 1 ligand binding events!
+INFO: Dataset Nprot-x0372 has 1 ligand binding events!
+INFO: Dataset Nprot-x0374 has 1 ligand binding events!
+INFO: Dataset Nprot-x0385 has 1 ligand binding events!
+INFO: Dataset Nprot-x0389 has 2 ligand binding events!
+INFO: Dataset Nprot-x0390 has 2 ligand binding events!
+INFO: Dataset Nprot-x0392 has 1 ligand binding events!
+INFO: Dataset Nprot-x0395 has 1 ligand binding events!
+INFO: Dataset Nprot-x0401 has 1 ligand binding events!
+INFO: Dataset Nprot-x0403 has 1 ligand binding events!
+INFO: Dataset Nprot-x0412 has 1 ligand binding events!
+INFO: Dataset Nprot-x0423 has 1 ligand binding events!
+INFO: Dataset Nprot-x0438 has 1 ligand binding events!
+INFO: Dataset Nprot-x0467 has 1 ligand binding events!
+INFO: Dataset Nprot-x0477 has 1 ligand binding events!
+INFO: Dataset Nprot-x0483 has 1 ligand binding events!
+INFO: Dataset Nprot-x0488 has 1 ligand binding events!
+INFO: Dataset Nprot-x0525 has 2 ligand binding events!
+INFO: Dataset Nprot-x0540 has 1 ligand binding events!
+INFO: Dataset Nprot-x0543 has 1 ligand binding events!
+INFO: Dataset Nprot-x0552 has 1 ligand binding events!
+INFO: Dataset Nprot-x0556 has 1 ligand binding events!
+INFO: Dataset Nprot-x0615 has 1 ligand binding events!
+INFO: Dataset Nprot-x0616 has 1 ligand binding events!
+INFO: Dataset Nprot-x0642 has 1 ligand binding events!
+INFO: Dataset Nprot-x0648 has 1 ligand binding events!
+INFO: Dataset Nprot-x0656 has 1 ligand binding events!
+INFO: Got 1 reference datasets
+INFO: Got 80 new datasets
+INFO: Got 1 assemblies
+INFO: Got 1 xtalforms
+INFO: Got 0 ligand neighbourhoods
+INFO: looking at SARS2_Nprot-A0239
+INFO: looking at SARS2_Nprot-A0240
+INFO: looking at SARS2_Nprot-A0383
+INFO: looking at SARS2_Nprot-A0438
+INFO: looking at SARS2_Nprot-A0497
+INFO: looking at SARS2_Nprot-x0797
+INFO: looking at SARS2_Nprot-x1108
+INFO: looking at SARS2_Nprot-x1124
+INFO: looking at SARS2_Nprot-x1135
+INFO: looking at SARS2_Nprot-x1167
+INFO: looking at SARS2_Nprot-x1285
+INFO: looking at SARS2_Nprot-x1299
+INFO: looking at SARS2_Nprot-x1305
+INFO: looking at SARS2_Nprot-x1361
+INFO: looking at SARS2_Nprot-x1396
+INFO: looking at SARS2_Nprot-x1410
+INFO: looking at SARS2_Nprot-x1427
+INFO: looking at SARS2_Nprot-x1475
+INFO: looking at SARS2_Nprot-x1491
+INFO: looking at SARS2_Nprot-x1498
+INFO: looking at SARS2_Nprot-x1574
+INFO: looking at SARS2_Nprot-x1582
+INFO: looking at SARS2_Nprot-x1585
+INFO: looking at SARS2_Nprot-x1586
+INFO: looking at SARS2_Nprot-x1594
+INFO: looking at SARS2_Nprot-x1626
+INFO: looking at SARS2_Nprot-x1651
+INFO: looking at SARS2_Nprot-x1882
+INFO: looking at SARS2_Nprot-x1976
+INFO: looking at Nprot-x0072
+INFO: looking at Nprot-x0083
+INFO: looking at Nprot-x0084
+INFO: looking at Nprot-x0098
+INFO: looking at Nprot-x0125
+INFO: looking at Nprot-x0138
+INFO: looking at Nprot-x0180
+INFO: looking at Nprot-x0190
+INFO: looking at Nprot-x0220
+INFO: looking at Nprot-x0230
+INFO: looking at Nprot-x0249
+INFO: looking at Nprot-x0263
+INFO: looking at Nprot-x0275
+INFO: looking at Nprot-x0300
+INFO: looking at Nprot-x0303
+INFO: looking at Nprot-x0318
+INFO: looking at Nprot-x0329
+INFO: looking at Nprot-x0334
+INFO: looking at Nprot-x0340
+INFO: looking at Nprot-x0343
+INFO: looking at Nprot-x0345
+INFO: looking at Nprot-x0358
+INFO: looking at Nprot-x0359
+INFO: looking at Nprot-x0361
+INFO: looking at Nprot-x0369
+INFO: looking at Nprot-x0372
+INFO: looking at Nprot-x0374
+INFO: looking at Nprot-x0385
+INFO: looking at Nprot-x0389
+INFO: looking at Nprot-x0390
+INFO: looking at Nprot-x0392
+INFO: looking at Nprot-x0395
+INFO: looking at Nprot-x0401
+INFO: looking at Nprot-x0403
+INFO: looking at Nprot-x0412
+INFO: looking at Nprot-x0423
+INFO: looking at Nprot-x0438
+INFO: looking at Nprot-x0467
+INFO: looking at Nprot-x0477
+INFO: looking at Nprot-x0483
+INFO: looking at Nprot-x0488
+INFO: looking at Nprot-x0525
+INFO: looking at Nprot-x0540
+INFO: looking at Nprot-x0543
+INFO: looking at Nprot-x0552
+INFO: looking at Nprot-x0556
+INFO: looking at Nprot-x0615
+INFO: looking at Nprot-x0616
+INFO: looking at Nprot-x0642
+INFO: looking at Nprot-x0648
+INFO: looking at Nprot-x0656
+INFO: extracting components
+INFO: handling SARS2_Nprot-A0239
+INFO: extracting components SARS2_Nprot-A0239 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-A0239/SARS2_Nprot-A0239_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-A0240
+INFO: extracting components SARS2_Nprot-A0240 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-A0240/SARS2_Nprot-A0240_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-A0383
+INFO: extracting components SARS2_Nprot-A0383 A 505 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-A0383/SARS2_Nprot-A0383_A_505_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-A0438
+INFO: extracting components SARS2_Nprot-A0438 A 405 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-A0438/SARS2_Nprot-A0438_A_405_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-A0497
+INFO: extracting components SARS2_Nprot-A0497 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-A0497/SARS2_Nprot-A0497_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x0797
+INFO: extracting components SARS2_Nprot-x0797 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x0797/SARS2_Nprot-x0797_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1108
+INFO: extracting components SARS2_Nprot-x1108 A 405 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1108/SARS2_Nprot-x1108_A_405_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1124
+INFO: extracting components SARS2_Nprot-x1124 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1124/SARS2_Nprot-x1124_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1135
+INFO: extracting components SARS2_Nprot-x1135 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1135/SARS2_Nprot-x1135_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1167
+INFO: extracting components SARS2_Nprot-x1167 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1167/SARS2_Nprot-x1167_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1285
+INFO: extracting components SARS2_Nprot-x1285 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1285/SARS2_Nprot-x1285_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1299
+INFO: extracting components SARS2_Nprot-x1299 A 405 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1305
+INFO: extracting components SARS2_Nprot-x1305 A 406 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1305/SARS2_Nprot-x1305_A_406_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1361
+INFO: extracting components SARS2_Nprot-x1361 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1361/SARS2_Nprot-x1361_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1396
+INFO: extracting components SARS2_Nprot-x1396 A 504 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1396/SARS2_Nprot-x1396_A_504_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1410
+INFO: extracting components SARS2_Nprot-x1410 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1410/SARS2_Nprot-x1410_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1427
+INFO: extracting components SARS2_Nprot-x1427 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1427/SARS2_Nprot-x1427_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1475
+INFO: extracting components SARS2_Nprot-x1475 A 405 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1475/SARS2_Nprot-x1475_A_405_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1491
+INFO: extracting components SARS2_Nprot-x1491 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1491/SARS2_Nprot-x1491_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1498
+INFO: extracting components SARS2_Nprot-x1498 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1498/SARS2_Nprot-x1498_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1574
+INFO: extracting components SARS2_Nprot-x1574 A 507 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1582
+INFO: extracting components SARS2_Nprot-x1582 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1582/SARS2_Nprot-x1582_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1585
+INFO: extracting components SARS2_Nprot-x1585 A 405 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1585/SARS2_Nprot-x1585_A_405_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1586
+INFO: extracting components SARS2_Nprot-x1586 A 501 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1586/SARS2_Nprot-x1586_A_501_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1594
+INFO: extracting components SARS2_Nprot-x1594 A 405 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1594/SARS2_Nprot-x1594_A_405_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1626
+INFO: extracting components SARS2_Nprot-x1626 A 405 1 SARS2_Nprot-x1626+A+405+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1626/SARS2_Nprot-x1626_A_405_1_SARS2_Nprot-x1626+A+405+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1651
+INFO: extracting components SARS2_Nprot-x1651 A 405 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1882
+INFO: extracting components SARS2_Nprot-x1882 A 501 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling SARS2_Nprot-x1976
+INFO: extracting components SARS2_Nprot-x1976 A 504 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/SARS2_Nprot-x1976/SARS2_Nprot-x1976_A_504_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0072
+INFO: extracting components Nprot-x0072 A 464 1 Nprot-x0072+A+464+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0072/Nprot-x0072_A_464_1_Nprot-x0072+A+464+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0083
+INFO: extracting components Nprot-x0083 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0083/Nprot-x0083_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0084
+INFO: extracting components Nprot-x0084 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0084/Nprot-x0084_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: extracting components Nprot-x0084 A 402 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0084/Nprot-x0084_A_402_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0098
+INFO: extracting components Nprot-x0098 A 401 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0098/Nprot-x0098_A_401_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0125
+INFO: extracting components Nprot-x0125 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0125/Nprot-x0125_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0138
+INFO: extracting components Nprot-x0138 A 501 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0138/Nprot-x0138_A_501_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0180
+INFO: extracting components Nprot-x0180 A 402 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0180/Nprot-x0180_A_402_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: extracting components Nprot-x0180 A 401 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0180/Nprot-x0180_A_401_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0190
+INFO: extracting components Nprot-x0190 A 465 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0190/Nprot-x0190_A_465_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0220
+INFO: extracting components Nprot-x0220 A 501 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0220/Nprot-x0220_A_501_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0230
+INFO: extracting components Nprot-x0230 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0230/Nprot-x0230_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0249
+INFO: extracting components Nprot-x0249 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0249/Nprot-x0249_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0263
+INFO: extracting components Nprot-x0263 A 401 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0263/Nprot-x0263_A_401_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0275
+INFO: extracting components Nprot-x0275 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0275/Nprot-x0275_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0300
+INFO: extracting components Nprot-x0300 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0300/Nprot-x0300_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0303
+INFO: extracting components Nprot-x0303 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0303/Nprot-x0303_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0318
+INFO: extracting components Nprot-x0318 A 464 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0318/Nprot-x0318_A_464_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0329
+INFO: extracting components Nprot-x0329 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0329/Nprot-x0329_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0334
+INFO: extracting components Nprot-x0334 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0334/Nprot-x0334_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: extracting components Nprot-x0334 A 402 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0334/Nprot-x0334_A_402_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0340
+INFO: extracting components Nprot-x0340 A 466 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0340/Nprot-x0340_A_466_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0343
+INFO: extracting components Nprot-x0343 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0343/Nprot-x0343_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0345
+INFO: extracting components Nprot-x0345 A 401 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0345/Nprot-x0345_A_401_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0358
+INFO: extracting components Nprot-x0358 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0358/Nprot-x0358_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0359
+INFO: extracting components Nprot-x0359 A 401 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0359/Nprot-x0359_A_401_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0361
+INFO: extracting components Nprot-x0361 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0369
+INFO: extracting components Nprot-x0369 A 464 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0369/Nprot-x0369_A_464_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0372
+INFO: extracting components Nprot-x0372 A 464 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0372/Nprot-x0372_A_464_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0374
+INFO: extracting components Nprot-x0374 A 401 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0374/Nprot-x0374_A_401_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0385
+INFO: extracting components Nprot-x0385 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0385/Nprot-x0385_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0389
+INFO: extracting components Nprot-x0389 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0389/Nprot-x0389_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: extracting components Nprot-x0389 A 501 1 Nprot-x0389+A+501+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0389/Nprot-x0389_A_501_1_Nprot-x0389+A+501+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0390
+INFO: extracting components Nprot-x0390 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0390/Nprot-x0390_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: extracting components Nprot-x0390 A 501 1 Nprot-x0389+A+501+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0390/Nprot-x0390_A_501_1_Nprot-x0389+A+501+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0392
+INFO: extracting components Nprot-x0392 A 401 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0395
+INFO: extracting components Nprot-x0395 A 464 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0395/Nprot-x0395_A_464_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0401
+INFO: extracting components Nprot-x0401 A 501 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0401/Nprot-x0401_A_501_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0403
+INFO: extracting components Nprot-x0403 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0403/Nprot-x0403_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0412
+INFO: extracting components Nprot-x0412 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0412/Nprot-x0412_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0423
+INFO: extracting components Nprot-x0423 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0423/Nprot-x0423_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0438
+INFO: extracting components Nprot-x0438 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0438/Nprot-x0438_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0467
+INFO: extracting components Nprot-x0467 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0467/Nprot-x0467_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0477
+INFO: extracting components Nprot-x0477 A 401 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0477/Nprot-x0477_A_401_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0483
+INFO: extracting components Nprot-x0483 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0483/Nprot-x0483_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0488
+INFO: extracting components Nprot-x0488 A 501 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0488/Nprot-x0488_A_501_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0525
+INFO: extracting components Nprot-x0525 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0525/Nprot-x0525_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: extracting components Nprot-x0525 A 465 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0525/Nprot-x0525_A_465_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0540
+INFO: extracting components Nprot-x0540 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0540/Nprot-x0540_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0543
+INFO: extracting components Nprot-x0543 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0543/Nprot-x0543_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0552
+INFO: extracting components Nprot-x0552 A 464 1 SARS2_Nprot-x1396+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0552/Nprot-x0552_A_464_1_SARS2_Nprot-x1396+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0556
+INFO: extracting components Nprot-x0556 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0556/Nprot-x0556_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0615
+INFO: extracting components Nprot-x0615 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0615/Nprot-x0615_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0616
+INFO: extracting components Nprot-x0616 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0616/Nprot-x0616_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0642
+INFO: extracting components Nprot-x0642 A 401 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0642/Nprot-x0642_A_401_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0648
+INFO: extracting components Nprot-x0648 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0648/Nprot-x0648_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: handling Nprot-x0656
+INFO: extracting components Nprot-x0656 A 464 1 SARS2_Nprot-A0240+A+504+1 /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/aligned_files/Nprot-x0656/Nprot-x0656_A_464_1_SARS2_Nprot-A0240+A+504+1.pdb
+INFO: creating ligand files
+INFO: removing 0 empty aligned_files dirs
+INFO: Handled 86 alignments in 139 secs

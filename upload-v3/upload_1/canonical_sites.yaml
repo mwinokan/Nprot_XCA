@@ -1,0 +1,166 @@
+Nprot-x0072+A+464+0+1:
+  centroid_res: Nprot-x0072/A/336/A
+  conformer_site_ids:
+  - Nprot-x0072+A+464+0+1
+  global_reference_dtag: SARS2_Nprot-A0240
+  reference_conformer_site_id: Nprot-x0072+A+464+0+1
+  residues:
+  - A/259/ARG
+  - A/280/GLU
+  - A/281/GLN
+  - A/282/THR
+  - A/283/GLN
+  - A/317/MET
+  - A/318/SER
+  - A/319/ARG
+  - A/320/ILE
+  - A/321/GLY
+  - A/322/MET
+  - A/323/GLU
+  - A/324/VAL
+  - A/325/THR
+  - A/326/PRO
+  - A/327/SER
+  - A/328/GLY
+  - A/329/THR
+  - A/330/TRP
+  - A/331/LEU
+  - A/332/THR
+  - A/333/TYR
+  - A/334/THR
+  - A/335/GLY
+  - A/336/ALA
+  - A/337/ILE
+  - A/338/LYS
+  - A/464/LIG
+Nprot-x0389+A+501+0+1:
+  centroid_res: Nprot-x0389/A/277/A
+  conformer_site_ids:
+  - Nprot-x0389+A+501+0+1
+  global_reference_dtag: SARS2_Nprot-A0240
+  reference_conformer_site_id: Nprot-x0389+A+501+0+1
+  residues:
+  - A/269/ASN
+  - A/270/VAL
+  - A/271/THR
+  - A/272/GLN
+  - A/274/PHE
+  - A/275/GLY
+  - A/276/ARG
+  - A/277/ARG
+  - A/278/GLY
+  - A/279/PRO
+  - A/283/GLN
+  - A/284/GLY
+  - A/285/ASN
+  - A/286/PHE
+  - A/287/GLY
+  - A/288/ASP
+  - A/289/GLN
+  - A/290/GLU
+  - A/292/ILE
+  - A/293/ARG
+  - A/359/ALA
+  - A/360/TYR
+  - A/361/LYS
+  - A/362/THR
+  - A/363/PHE
+  - A/364/PRO
+SARS2_Nprot-A0240+A+504+0+1:
+  centroid_res: SARS2_Nprot-A0240/A/336/A
+  conformer_site_ids:
+  - SARS2_Nprot-A0240+A+504+0+1
+  global_reference_dtag: SARS2_Nprot-A0240
+  reference_conformer_site_id: SARS2_Nprot-A0240+A+504+0+1
+  residues:
+  - A/257/LYS
+  - A/258/PRO
+  - A/259/ARG
+  - A/260/GLN
+  - A/262/ARG
+  - A/273/ALA
+  - A/274/PHE
+  - A/275/GLY
+  - A/276/ARG
+  - A/277/ARG
+  - A/280/GLU
+  - A/281/GLN
+  - A/282/THR
+  - A/283/GLN
+  - A/284/GLY
+  - A/316/GLY
+  - A/317/MET
+  - A/318/SER
+  - A/319/ARG
+  - A/321/GLY
+  - A/322/MET
+  - A/323/GLU
+  - A/324/VAL
+  - A/325/THR
+  - A/326/PRO
+  - A/327/SER
+  - A/328/GLY
+  - A/329/THR
+  - A/330/TRP
+  - A/331/LEU
+  - A/332/THR
+  - A/333/TYR
+  - A/334/THR
+  - A/335/GLY
+  - A/336/ALA
+  - A/337/ILE
+  - A/338/LYS
+  - A/339/LEU
+  - A/340/ASP
+  - A/341/ASP
+SARS2_Nprot-x1396+A+504+0+1:
+  centroid_res: SARS2_Nprot-x1396/A/349/A
+  conformer_site_ids:
+  - SARS2_Nprot-x1396+A+504+0+1
+  global_reference_dtag: SARS2_Nprot-A0240
+  reference_conformer_site_id: SARS2_Nprot-x1396+A+504+0+1
+  residues:
+  - A/290/GLU
+  - A/298/TYR
+  - A/299/LYS
+  - A/300/HIS
+  - A/301/TRP
+  - A/302/PRO
+  - A/303/GLN
+  - A/304/ILE
+  - A/305/ALA
+  - A/306/GLN
+  - A/307/PHE
+  - A/339/LEU
+  - A/340/ASP
+  - A/343/ASP
+  - A/344/PRO
+  - A/345/ASN
+  - A/346/PHE
+  - A/347/LYS
+  - A/348/ASP
+  - A/349/GLN
+  - A/350/VAL
+  - A/351/ILE
+  - A/352/LEU
+  - A/353/LEU
+  - A/354/ASN
+  - A/355/LYS
+  - A/356/HIS
+SARS2_Nprot-x1626+A+405+0+1:
+  centroid_res: SARS2_Nprot-x1626/A/253/A
+  conformer_site_ids:
+  - SARS2_Nprot-x1626+A+405+0+1
+  global_reference_dtag: SARS2_Nprot-A0240
+  reference_conformer_site_id: SARS2_Nprot-x1626+A+405+0+1
+  residues:
+  - A/248/HIS
+  - A/249/MET
+  - A/250/SER
+  - A/251/ALA
+  - A/252/ALA
+  - A/253/GLU
+  - A/254/ALA
+  - A/255/SER
+  - A/256/LYS
+  - A/257/LYS
