@@ -1,4 +1,4 @@
-run_on: '2025-11-14 13:19:51.660541'
+run_on: '2025-11-17 14:48:05.003322'
 collator_cwd: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025
 collator_config_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/config.yaml
 input_dirs:
@@ -12,7 +12,7 @@ previous_version_dirs: []
 xca_git_info:
   origin_url: https://github.com/xchem/xchem-align.git
   branch: '20251023'
-  sha: fbb191573a22e1421a59d8817ecff602db6c4188
+  sha: 7523ef6f2736ab39449f4de60d7e8b9e44ef6c6d
   tag: null
   dirty: false
 code_prefix_tooltips:
