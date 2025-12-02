@@ -151,18 +151,18 @@ xtalform_sites:
     members: ["SARS2_Nprot-A0239/A/504/\0/1", "SARS2_Nprot-A0240/A/504/\0/1", "SARS2_Nprot-A0438/A/405/\0\
         /1", "SARS2_Nprot-A0497/A/504/\0/1", "SARS2_Nprot-x0797/A/504/\0/1", "SARS2_Nprot-x1108/A/405/\0\
         /1", "SARS2_Nprot-x1124/A/504/\0/1", "SARS2_Nprot-x1135/A/504/\0/1", "SARS2_Nprot-x1167/A/504/\0\
-        /1", "SARS2_Nprot-x1285/A/504/\0/1", SARS2_Nprot-x1299/A/405/A/1, SARS2_Nprot-x1299/A/405/B/1,
+        /1", "SARS2_Nprot-x1285/A/504/\0/1", SARS2_Nprot-x1299/A/405/B/1, SARS2_Nprot-x1299/A/405/A/1,
       "SARS2_Nprot-x1305/A/406/\0/1", "SARS2_Nprot-x1361/A/504/\0/1", "SARS2_Nprot-x1410/A/504/\0\
         /1", "SARS2_Nprot-x1427/A/504/\0/1", "SARS2_Nprot-x1475/A/405/\0/1", "SARS2_Nprot-x1491/A/504/\0\
-        /1", "SARS2_Nprot-x1498/A/504/\0/1", SARS2_Nprot-x1574/A/507/A/1, SARS2_Nprot-x1574/A/507/B/1,
-      "SARS2_Nprot-x1582/A/504/\0/1", "SARS2_Nprot-x1586/A/501/\0/1", SARS2_Nprot-x1651/A/405/A/1,
-      SARS2_Nprot-x1651/A/405/B/1, SARS2_Nprot-x1882/A/501/A/1, SARS2_Nprot-x1882/A/501/B/1,
+        /1", "SARS2_Nprot-x1498/A/504/\0/1", SARS2_Nprot-x1574/A/507/B/1, SARS2_Nprot-x1574/A/507/A/1,
+      "SARS2_Nprot-x1582/A/504/\0/1", "SARS2_Nprot-x1586/A/501/\0/1", SARS2_Nprot-x1651/A/405/B/1,
+      SARS2_Nprot-x1651/A/405/A/1, SARS2_Nprot-x1882/A/501/B/1, SARS2_Nprot-x1882/A/501/A/1,
       "SARS2_Nprot-x1976/A/504/\0/1", "Nprot-x0083/A/464/\0/1", "Nprot-x0084/A/401/\0\
         /1", "Nprot-x0125/A/464/\0/1", "Nprot-x0138/A/501/\0/1", "Nprot-x0180/A/402/\0\
         /1", "Nprot-x0220/A/501/\0/1", "Nprot-x0230/A/464/\0/1", "Nprot-x0249/A/464/\0\
         /1", "Nprot-x0300/A/401/\0/1", "Nprot-x0303/A/401/\0/1", "Nprot-x0329/A/401/\0\
         /1", "Nprot-x0334/A/401/\0/1", "Nprot-x0334/A/402/\0/1", "Nprot-x0343/A/401/\0\
-        /1", "Nprot-x0358/A/401/\0/1", Nprot-x0361/A/401/A/1, Nprot-x0361/A/401/B/1,
+        /1", "Nprot-x0358/A/401/\0/1", Nprot-x0361/A/401/B/1, Nprot-x0361/A/401/A/1,
       "Nprot-x0385/A/464/\0/1", "Nprot-x0389/A/401/\0/1", "Nprot-x0390/A/401/\0/1",
       "Nprot-x0401/A/501/\0/1", "Nprot-x0403/A/464/\0/1", "Nprot-x0412/A/401/\0/1",
       "Nprot-x0423/A/401/\0/1", "Nprot-x0438/A/464/\0/1", "Nprot-x0467/A/401/\0/1",
@@ -184,8 +184,8 @@ xtalform_sites:
         /1", "Nprot-x0084/A/402/\0/1", "Nprot-x0098/A/401/\0/1", "Nprot-x0180/A/401/\0\
         /1", "Nprot-x0190/A/465/\0/1", "Nprot-x0263/A/401/\0/1", "Nprot-x0318/A/464/\0\
         /1", "Nprot-x0345/A/401/\0/1", "Nprot-x0359/A/401/\0/1", "Nprot-x0369/A/464/\0\
-        /1", "Nprot-x0372/A/464/\0/1", "Nprot-x0374/A/401/\0/1", Nprot-x0392/A/401/A/1,
-      Nprot-x0392/A/401/B/1, "Nprot-x0395/A/464/\0/1", "Nprot-x0477/A/401/\0/1", "Nprot-x0552/A/464/\0\
+        /1", "Nprot-x0372/A/464/\0/1", "Nprot-x0374/A/401/\0/1", Nprot-x0392/A/401/B/1,
+      Nprot-x0392/A/401/A/1, "Nprot-x0395/A/464/\0/1", "Nprot-x0477/A/401/\0/1", "Nprot-x0552/A/464/\0\
         /1"]
     xtalform_id: I41
   "SARS2_Nprot-x1626/A/405/\0/1":
@@ -452,24 +452,24 @@ crystals:
     aligned_files:
       A:
         '405':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: Cc1ccccc1OCC(=O)Nc1cncc(-c2cncnc2C)c1}
   SARS2_Nprot-x1305:
     assigned_xtalform: I41
@@ -660,24 +660,24 @@ crystals:
     aligned_files:
       A:
         '507':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: Cc1ccccc1OCC(=O)Nc1cncc(-c2cccc(CN)c2)c1}
   SARS2_Nprot-x1582:
     assigned_xtalform: I41
@@ -799,48 +799,48 @@ crystals:
     aligned_files:
       A:
         '405':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: Cc1ccccc1OCC(=O)Nc1cncc(-c2ccc(C3(N)CCOCC3)nc2)c1}
   SARS2_Nprot-x1882:
     assigned_xtalform: I41
     aligned_files:
       A:
         '501':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: c1ccc(-n2cc(CNCc3ccc4ccoc4c3)cn2)cc1}
   SARS2_Nprot-x1976:
     assigned_xtalform: I41
@@ -1456,24 +1456,24 @@ crystals:
     aligned_files:
       A:
         '401':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: Cc1ccccc1OCC(=O)N(C)C}
   Nprot-x0369:
     assigned_xtalform: I41
@@ -1656,24 +1656,24 @@ crystals:
     aligned_files:
       A:
         '401':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-x1396+A+504+0+1: {structure: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_ligand.smi,
+              SARS2_Nprot-x1396+A+504+0+1: {structure: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: 'c1cc(NC[C@@H]2CCCO2)ccn1'}
   Nprot-x0395:
     assigned_xtalform: I41
@@ -8514,7 +8514,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [-0.0, -0.0, -0.0]
+      vec: [0.0, 0.0, 0.0]
     "Nprot-x0361/A/401/A/1~Nprot-x0385/A/464/\0/1":
       mat:
       - [0.9997297857413379, -0.019570885246946064, 0.012543362875639886]
@@ -8832,7 +8832,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [0.0, 0.0, 0.0]
+      vec: [-0.0, -0.0, -0.0]
     Nprot-x0361/A/401/B/1~Nprot-x0361/A/401/B/1:
       mat:
       - [1.0, 0.0, 0.0]
@@ -10680,7 +10680,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [-0.0, -0.0, -0.0]
+      vec: [0.0, 0.0, 0.0]
     "Nprot-x0392/A/401/A/1~Nprot-x0395/A/464/\0/1":
       mat:
       - [0.9999957391383408, -0.0025555477250399964, 0.00141098582145928]
@@ -10788,7 +10788,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [0.0, 0.0, 0.0]
+      vec: [-0.0, -0.0, -0.0]
     Nprot-x0392/A/401/B/1~Nprot-x0392/A/401/B/1:
       mat:
       - [1.0, 0.0, 0.0]
@@ -20559,10 +20559,10 @@ transforms:
       vec: [-0.0, -0.0, -0.0]
     SARS2_Nprot-x1299/A/405/A/1~SARS2_Nprot-x1299/A/405/B/1:
       mat:
-      - [1.0, 0.0, -0.0]
-      - [-0.0, 1.0, 0.0]
-      - [0.0, 0.0, 1.0]
-      vec: [-0.0, -0.0, -0.0]
+      - [1.0, -0.0, 0.0]
+      - [0.0, 1.0, 0.0]
+      - [-0.0, 0.0, 1.0]
+      vec: [0.0, 0.0, 0.0]
     "SARS2_Nprot-x1299/A/405/A/1~SARS2_Nprot-x1305/A/406/\0/1":
       mat:
       - [0.9999533859037015, -0.006555134602548339, -0.007089162860672955]
@@ -20865,10 +20865,10 @@ transforms:
       vec: [-0.06624482451116265, -0.03660415684033147, -0.08984087478569253]
     SARS2_Nprot-x1299/A/405/B/1~SARS2_Nprot-x1299/A/405/A/1:
       mat:
-      - [1.0, -0.0, 0.0]
-      - [0.0, 1.0, 0.0]
-      - [-0.0, 0.0, 1.0]
-      vec: [0.0, 0.0, 0.0]
+      - [1.0, 0.0, -0.0]
+      - [-0.0, 1.0, 0.0]
+      - [0.0, 0.0, 1.0]
+      vec: [-0.0, -0.0, -0.0]
     SARS2_Nprot-x1299/A/405/B/1~SARS2_Nprot-x1299/A/405/B/1:
       mat:
       - [1.0, 0.0, -0.0]
@@ -23526,7 +23526,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [-0.0, -0.0, -0.0]
+      vec: [0.0, 0.0, 0.0]
     "SARS2_Nprot-x1574/A/507/A/1~SARS2_Nprot-x1586/A/501/\0/1":
       mat:
       - [0.9999922229021074, 0.003473252489423581, -0.0018683287843160369]
@@ -23862,7 +23862,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [0.0, 0.0, 0.0]
+      vec: [-0.0, -0.0, -0.0]
     SARS2_Nprot-x1574/A/507/B/1~SARS2_Nprot-x1574/A/507/B/1:
       mat:
       - [1.0, 0.0, 0.0]
@@ -24678,7 +24678,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [-0.0, -0.0, -0.0]
+      vec: [0.0, 0.0, 0.0]
     "SARS2_Nprot-x1651/A/405/B/1~Nprot-x0138/A/501/\0/1":
       mat:
       - [0.9999469927314504, 0.00417434587449601, -0.009412043553324173]
@@ -24756,7 +24756,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [0.0, 0.0, 0.0]
+      vec: [-0.0, -0.0, -0.0]
     SARS2_Nprot-x1651/A/405/B/1~SARS2_Nprot-x1651/A/405/B/1:
       mat:
       - [1.0, 0.0, 0.0]
@@ -25098,7 +25098,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [-0.0, -0.0, -0.0]
+      vec: [0.0, 0.0, 0.0]
     "SARS2_Nprot-x1882/A/501/A/1~SARS2_Nprot-x1976/A/504/\0/1":
       mat:
       - [0.9999625821569539, -0.006288196666155863, 0.005940780141071078]
@@ -25434,7 +25434,7 @@ transforms:
       - [1.0, 0.0, 0.0]
       - [0.0, 1.0, 0.0]
       - [0.0, 0.0, 1.0]
-      vec: [0.0, 0.0, 0.0]
+      vec: [-0.0, -0.0, -0.0]
     SARS2_Nprot-x1882/A/501/B/1~SARS2_Nprot-x1882/A/501/B/1:
       mat:
       - [1.0, 0.0, 0.0]

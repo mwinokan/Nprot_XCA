@@ -1,4 +1,4 @@
-INFO: initialising logging at level 0 at 2025-11-17 14:48:04.549336
+INFO: initialising logging at level 0 at 2025-12-02 09:19:54.092679
 INFO: found 2 inputs
 INFO: Excluded datasets: []
 INFO: adding input dls/labxchem/data/lb32627/lb32627-93 with 13 panddas event maps
@@ -276,4 +276,4 @@ INFO: writing soakdb data to /dls/labxchem/data/lb32627/lb32627-93/processing/an
 INFO: copying config.yaml
 INFO: copying config file /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/config.yaml to /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/upload_1/config.yaml
 INFO: run complete
-INFO: Handled 80 crystals in 40 secs
+INFO: Handled 80 crystals in 39 secs

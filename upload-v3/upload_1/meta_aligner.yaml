@@ -1,5 +1,5 @@
-run_on: '2025-11-17 14:48:05.003322'
-collator_cwd: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025
+run_on: '2025-12-02 09:19:54.356859'
+collator_cwd: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-v3
 collator_config_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current/config.yaml
 input_dirs: [/dls/labxchem/data/lb32627/lb32627-93, /dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1]
 output_dir: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/xca_nov2025/upload-current
@@ -8,7 +8,7 @@ version_number: 1
 version_dir: upload_1
 previous_version_dirs: []
 xca_git_info: {origin_url: 'https://github.com/xchem/xchem-align.git', branch: '20251023',
-  sha: 7523ef6f2736ab39449f4de60d7e8b9e44ef6c6d, tag: null, dirty: false}
+  sha: bd15069a7cf0e75627621c0f0df72c7b2399e181, tag: null, dirty: false}
 code_prefix_tooltips: {Nprot-x: SARS2_Nprot structures, Nprot-frag-x: SARS2_Nprot
     structures}
 crystals:
@@ -556,34 +556,34 @@ crystals:
       - {file: upload_1/crystallographic_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_1_A_405.ccp4,
         sha256: 107e66e0a30ced8bf7984d1b3e7a33f0b039fc8200f27ed2885cc1c24e01049b,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/panddas/20250522_pandda2_resolutionlimit/processed_datasets/SARS2_Nprot-x1299/SARS2_Nprot-x1299-event_1_1-BDC_0.1_map.native.ccp4,
-        model: '1', chain: A, res: 405, altloc: A, name: LIG, index: 1, bdc: 0.1}
+        model: '1', chain: A, res: 405, altloc: B, name: LIG, index: 1, bdc: 0.1}
       - {file: upload_1/crystallographic_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_1_A_405.ccp4,
         sha256: 107e66e0a30ced8bf7984d1b3e7a33f0b039fc8200f27ed2885cc1c24e01049b,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/panddas/20250522_pandda2_resolutionlimit/processed_datasets/SARS2_Nprot-x1299/SARS2_Nprot-x1299-event_1_1-BDC_0.1_map.native.ccp4,
-        model: '1', chain: A, res: 405, altloc: B, name: LIG, index: 1, bdc: 0.1}
+        model: '1', chain: A, res: 405, altloc: A, name: LIG, index: 1, bdc: 0.1}
     status: new
     assigned_xtalform: I41
     aligned_files:
       A:
         '405':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1299/SARS2_Nprot-x1299_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: Cc1ccccc1OCC(=O)Nc1cncc(-c2cncnc2C)c1}
   SARS2_Nprot-x1305:
     type: model_building
@@ -987,34 +987,34 @@ crystals:
       - {file: upload_1/crystallographic_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_1_A_507.ccp4,
         sha256: c46523a18b1570ca6aadca944f2a09c081dc9bc4b5de59ecf6f2da42c0d155e4,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/panddas/20250522_pandda2_resolutionlimit/processed_datasets/SARS2_Nprot-x1574/SARS2_Nprot-x1574-event_1_1-BDC_0.14_map.native.ccp4,
-        model: '1', chain: A, res: 507, altloc: A, name: LIG, index: 1, bdc: 0.14}
+        model: '1', chain: A, res: 507, altloc: B, name: LIG, index: 1, bdc: 0.14}
       - {file: upload_1/crystallographic_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_1_A_507.ccp4,
         sha256: c46523a18b1570ca6aadca944f2a09c081dc9bc4b5de59ecf6f2da42c0d155e4,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/panddas/20250522_pandda2_resolutionlimit/processed_datasets/SARS2_Nprot-x1574/SARS2_Nprot-x1574-event_1_1-BDC_0.14_map.native.ccp4,
-        model: '1', chain: A, res: 507, altloc: B, name: LIG, index: 1, bdc: 0.14}
+        model: '1', chain: A, res: 507, altloc: A, name: LIG, index: 1, bdc: 0.14}
     status: new
     assigned_xtalform: I41
     aligned_files:
       A:
         '507':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1574/SARS2_Nprot-x1574_A_507_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: Cc1ccccc1OCC(=O)Nc1cncc(-c2cccc(CN)c2)c1}
   SARS2_Nprot-x1582:
     type: model_building
@@ -1279,34 +1279,34 @@ crystals:
       - {file: upload_1/crystallographic_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_1_A_405.ccp4,
         sha256: 70040df562009c21618af9c369f5c8e2b0dfd89fd8aecef5edebdb1429afb773,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/panddas/20250522_pandda2_resolutionlimit/processed_datasets/SARS2_Nprot-x1651/SARS2_Nprot-x1651-event_2_1-BDC_0.05_map.native.ccp4,
-        model: '1', chain: A, res: 405, altloc: A, name: LIG, index: 2, bdc: 0.05}
+        model: '1', chain: A, res: 405, altloc: B, name: LIG, index: 2, bdc: 0.05}
       - {file: upload_1/crystallographic_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_1_A_405.ccp4,
         sha256: 70040df562009c21618af9c369f5c8e2b0dfd89fd8aecef5edebdb1429afb773,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/panddas/20250522_pandda2_resolutionlimit/processed_datasets/SARS2_Nprot-x1651/SARS2_Nprot-x1651-event_2_1-BDC_0.05_map.native.ccp4,
-        model: '1', chain: A, res: 405, altloc: B, name: LIG, index: 2, bdc: 0.05}
+        model: '1', chain: A, res: 405, altloc: A, name: LIG, index: 2, bdc: 0.05}
     status: new
     assigned_xtalform: I41
     aligned_files:
       A:
         '405':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1651/SARS2_Nprot-x1651_A_405_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: Cc1ccccc1OCC(=O)Nc1cncc(-c2ccc(C3(N)CCOCC3)nc2)c1}
   SARS2_Nprot-x1882:
     reference: true
@@ -1332,34 +1332,34 @@ crystals:
       - {file: upload_1/crystallographic_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_1_A_501.ccp4,
         sha256: 6970501276df5f392f1a60808ac8af769bed12573563d367855a3e047d8cc0d9,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/panddas/20250519_pandda2_cluster4x_2/processed_datasets/SARS2_Nprot-x1882/SARS2_Nprot-x1882-event_2_1-BDC_0.47_map.native.ccp4,
-        model: '1', chain: A, res: 501, altloc: A, name: LIG, index: 2, bdc: 0.47}
+        model: '1', chain: A, res: 501, altloc: B, name: LIG, index: 2, bdc: 0.47}
       - {file: upload_1/crystallographic_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_1_A_501.ccp4,
         sha256: 6970501276df5f392f1a60808ac8af769bed12573563d367855a3e047d8cc0d9,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/analysis/panddas/20250519_pandda2_cluster4x_2/processed_datasets/SARS2_Nprot-x1882/SARS2_Nprot-x1882-event_2_1-BDC_0.47_map.native.ccp4,
-        model: '1', chain: A, res: 501, altloc: B, name: LIG, index: 2, bdc: 0.47}
+        model: '1', chain: A, res: 501, altloc: A, name: LIG, index: 2, bdc: 0.47}
     status: new
     assigned_xtalform: I41
     aligned_files:
       A:
         '501':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/SARS2_Nprot-x1882/SARS2_Nprot-x1882_A_501_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: c1ccc(-n2cc(CNCc3ccc4ccoc4c3)cn2)cc1}
   SARS2_Nprot-x1976:
     type: model_building
@@ -2582,34 +2582,34 @@ crystals:
       - {file: upload_1/crystallographic_files/Nprot-x0361/Nprot-x0361_1_A_401.ccp4,
         sha256: 7fb8ed0f5ccff65e3fbac1ecf85d8be7e7da37f80447c5b7f49aaed7b74b7df9,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/20250626_pandda2/processed_datasets/Nprot-x0361/Nprot-x0361-event_2_1-BDC_0.36_map.native.ccp4,
-        model: '1', chain: A, res: 401, altloc: A, name: LIG, index: 2, bdc: 0.36}
+        model: '1', chain: A, res: 401, altloc: B, name: LIG, index: 2, bdc: 0.36}
       - {file: upload_1/crystallographic_files/Nprot-x0361/Nprot-x0361_1_A_401.ccp4,
         sha256: 7fb8ed0f5ccff65e3fbac1ecf85d8be7e7da37f80447c5b7f49aaed7b74b7df9,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/20250626_pandda2/processed_datasets/Nprot-x0361/Nprot-x0361-event_2_1-BDC_0.36_map.native.ccp4,
-        model: '1', chain: A, res: 401, altloc: B, name: LIG, index: 2, bdc: 0.36}
+        model: '1', chain: A, res: 401, altloc: A, name: LIG, index: 2, bdc: 0.36}
     status: new
     assigned_xtalform: I41
     aligned_files:
       A:
         '401':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_B_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
+              SARS2_Nprot-A0240+A+504+0+1: {structure: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/Nprot-x0361/Nprot-x0361_A_401_A_1_SARS2_Nprot-A0240+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: Cc1ccccc1OCC(=O)N(C)C}
   Nprot-x0369:
     type: model_building
@@ -2962,34 +2962,34 @@ crystals:
       - {file: upload_1/crystallographic_files/Nprot-x0392/Nprot-x0392_1_A_401.ccp4,
         sha256: 263efd16df5cf37942c0a21594d29733c433090bd29b1353cbef454ac7e1752a,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/20250626_pandda2/processed_datasets/Nprot-x0392/Nprot-x0392-event_1_1-BDC_0.63_map.native.ccp4,
-        model: '1', chain: A, res: 401, altloc: A, name: LIG, index: 1, bdc: 0.63}
+        model: '1', chain: A, res: 401, altloc: B, name: LIG, index: 1, bdc: 0.63}
       - {file: upload_1/crystallographic_files/Nprot-x0392/Nprot-x0392_1_A_401.ccp4,
         sha256: 263efd16df5cf37942c0a21594d29733c433090bd29b1353cbef454ac7e1752a,
         source_file: /dls/labxchem/data/lb32627/lb32627-93/processing/lb27156-1/processing/analysis/20250626_pandda2/processed_datasets/Nprot-x0392/Nprot-x0392-event_1_1-BDC_0.63_map.native.ccp4,
-        model: '1', chain: A, res: 401, altloc: B, name: LIG, index: 1, bdc: 0.63}
+        model: '1', chain: A, res: 401, altloc: A, name: LIG, index: 1, bdc: 0.63}
     status: new
     assigned_xtalform: I41
     aligned_files:
       A:
         '401':
-          A: {}
-          B:
+          B: {}
+          A:
             '1':
-              SARS2_Nprot-x1396+A+504+0+1: {structure: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1.pdb,
-                artefacts: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_artefacts.pdb,
-                sigmaa_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_sigmaa.ccp4,
-                diff_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_diff.ccp4,
-                sigmaa_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_sigmaa_crystallographic.ccp4,
-                diff_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_diff_crystallographic.ccp4,
-                event_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_event.ccp4,
-                event_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_event_crystallographic.ccp4,
-                pdb_apo: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_apo.pdb,
-                pdb_apo_solv: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_apo-solv.pdb,
-                pdb_apo_desolv: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_apo-desolv.pdb,
-                ligand_mol: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_ligand.mol,
-                ligand_sdf: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_ligand.sdf,
-                ligand_pdb: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_ligand.pdb,
-                ligand_smiles: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_B_1_SARS2_Nprot-x1396+A+504+0+1_ligand.smi,
+              SARS2_Nprot-x1396+A+504+0+1: {structure: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1.pdb,
+                artefacts: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_artefacts.pdb,
+                sigmaa_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_sigmaa.ccp4,
+                diff_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_diff.ccp4,
+                sigmaa_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_sigmaa_crystallographic.ccp4,
+                diff_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_diff_crystallographic.ccp4,
+                event_map: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_event.ccp4,
+                event_map_crystallographic: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_event_crystallographic.ccp4,
+                pdb_apo: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_apo.pdb,
+                pdb_apo_solv: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_apo-solv.pdb,
+                pdb_apo_desolv: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_apo-desolv.pdb,
+                ligand_mol: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_ligand.mol,
+                ligand_sdf: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_ligand.sdf,
+                ligand_pdb: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_ligand.pdb,
+                ligand_smiles: upload_1/aligned_files/Nprot-x0392/Nprot-x0392_A_401_A_1_SARS2_Nprot-x1396+A+504+0+1_ligand.smi,
                 ligand_name: LIG, ligand_smiles_string: 'c1cc(NC[C@@H]2CCCO2)ccn1'}
   Nprot-x0395:
     type: model_building
@@ -4107,18 +4107,18 @@ xtalform_sites:
     members: ["SARS2_Nprot-A0239/A/504/\0/1", "SARS2_Nprot-A0240/A/504/\0/1", "SARS2_Nprot-A0438/A/405/\0\
         /1", "SARS2_Nprot-A0497/A/504/\0/1", "SARS2_Nprot-x0797/A/504/\0/1", "SARS2_Nprot-x1108/A/405/\0\
         /1", "SARS2_Nprot-x1124/A/504/\0/1", "SARS2_Nprot-x1135/A/504/\0/1", "SARS2_Nprot-x1167/A/504/\0\
-        /1", "SARS2_Nprot-x1285/A/504/\0/1", SARS2_Nprot-x1299/A/405/A/1, SARS2_Nprot-x1299/A/405/B/1,
+        /1", "SARS2_Nprot-x1285/A/504/\0/1", SARS2_Nprot-x1299/A/405/B/1, SARS2_Nprot-x1299/A/405/A/1,
       "SARS2_Nprot-x1305/A/406/\0/1", "SARS2_Nprot-x1361/A/504/\0/1", "SARS2_Nprot-x1410/A/504/\0\
         /1", "SARS2_Nprot-x1427/A/504/\0/1", "SARS2_Nprot-x1475/A/405/\0/1", "SARS2_Nprot-x1491/A/504/\0\
-        /1", "SARS2_Nprot-x1498/A/504/\0/1", SARS2_Nprot-x1574/A/507/A/1, SARS2_Nprot-x1574/A/507/B/1,
-      "SARS2_Nprot-x1582/A/504/\0/1", "SARS2_Nprot-x1586/A/501/\0/1", SARS2_Nprot-x1651/A/405/A/1,
-      SARS2_Nprot-x1651/A/405/B/1, SARS2_Nprot-x1882/A/501/A/1, SARS2_Nprot-x1882/A/501/B/1,
+        /1", "SARS2_Nprot-x1498/A/504/\0/1", SARS2_Nprot-x1574/A/507/B/1, SARS2_Nprot-x1574/A/507/A/1,
+      "SARS2_Nprot-x1582/A/504/\0/1", "SARS2_Nprot-x1586/A/501/\0/1", SARS2_Nprot-x1651/A/405/B/1,
+      SARS2_Nprot-x1651/A/405/A/1, SARS2_Nprot-x1882/A/501/B/1, SARS2_Nprot-x1882/A/501/A/1,
       "SARS2_Nprot-x1976/A/504/\0/1", "Nprot-x0083/A/464/\0/1", "Nprot-x0084/A/401/\0\
         /1", "Nprot-x0125/A/464/\0/1", "Nprot-x0138/A/501/\0/1", "Nprot-x0180/A/402/\0\
         /1", "Nprot-x0220/A/501/\0/1", "Nprot-x0230/A/464/\0/1", "Nprot-x0249/A/464/\0\
         /1", "Nprot-x0300/A/401/\0/1", "Nprot-x0303/A/401/\0/1", "Nprot-x0329/A/401/\0\
         /1", "Nprot-x0334/A/401/\0/1", "Nprot-x0334/A/402/\0/1", "Nprot-x0343/A/401/\0\
-        /1", "Nprot-x0358/A/401/\0/1", Nprot-x0361/A/401/A/1, Nprot-x0361/A/401/B/1,
+        /1", "Nprot-x0358/A/401/\0/1", Nprot-x0361/A/401/B/1, Nprot-x0361/A/401/A/1,
       "Nprot-x0385/A/464/\0/1", "Nprot-x0389/A/401/\0/1", "Nprot-x0390/A/401/\0/1",
       "Nprot-x0401/A/501/\0/1", "Nprot-x0403/A/464/\0/1", "Nprot-x0412/A/401/\0/1",
       "Nprot-x0423/A/401/\0/1", "Nprot-x0438/A/464/\0/1", "Nprot-x0467/A/401/\0/1",
@@ -4140,8 +4140,8 @@ xtalform_sites:
         /1", "Nprot-x0084/A/402/\0/1", "Nprot-x0098/A/401/\0/1", "Nprot-x0180/A/401/\0\
         /1", "Nprot-x0190/A/465/\0/1", "Nprot-x0263/A/401/\0/1", "Nprot-x0318/A/464/\0\
         /1", "Nprot-x0345/A/401/\0/1", "Nprot-x0359/A/401/\0/1", "Nprot-x0369/A/464/\0\
-        /1", "Nprot-x0372/A/464/\0/1", "Nprot-x0374/A/401/\0/1", Nprot-x0392/A/401/A/1,
-      Nprot-x0392/A/401/B/1, "Nprot-x0395/A/464/\0/1", "Nprot-x0477/A/401/\0/1", "Nprot-x0552/A/464/\0\
+        /1", "Nprot-x0372/A/464/\0/1", "Nprot-x0374/A/401/\0/1", Nprot-x0392/A/401/B/1,
+      Nprot-x0392/A/401/A/1, "Nprot-x0395/A/464/\0/1", "Nprot-x0477/A/401/\0/1", "Nprot-x0552/A/464/\0\
         /1"]
     xtalform_id: I41
   "SARS2_Nprot-x1626/A/405/\0/1":

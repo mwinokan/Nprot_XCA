@@ -10,8 +10,8 @@
 - "SARS2_Nprot-x1135+A+504+\0+1"
 - "SARS2_Nprot-x1167+A+504+\0+1"
 - "SARS2_Nprot-x1285+A+504+\0+1"
-- SARS2_Nprot-x1299+A+405+A+1
 - SARS2_Nprot-x1299+A+405+B+1
+- SARS2_Nprot-x1299+A+405+A+1
 - "SARS2_Nprot-x1305+A+406+\0+1"
 - "SARS2_Nprot-x1361+A+504+\0+1"
 - "SARS2_Nprot-x1410+A+504+\0+1"
@@ -19,14 +19,14 @@
 - "SARS2_Nprot-x1475+A+405+\0+1"
 - "SARS2_Nprot-x1491+A+504+\0+1"
 - "SARS2_Nprot-x1498+A+504+\0+1"
-- SARS2_Nprot-x1574+A+507+A+1
 - SARS2_Nprot-x1574+A+507+B+1
+- SARS2_Nprot-x1574+A+507+A+1
 - "SARS2_Nprot-x1582+A+504+\0+1"
 - "SARS2_Nprot-x1586+A+501+\0+1"
-- SARS2_Nprot-x1651+A+405+A+1
 - SARS2_Nprot-x1651+A+405+B+1
-- SARS2_Nprot-x1882+A+501+A+1
+- SARS2_Nprot-x1651+A+405+A+1
 - SARS2_Nprot-x1882+A+501+B+1
+- SARS2_Nprot-x1882+A+501+A+1
 - "SARS2_Nprot-x1976+A+504+\0+1"
 - "Nprot-x0083+A+464+\0+1"
 - "Nprot-x0084+A+401+\0+1"
@@ -45,8 +45,8 @@
 - "Nprot-x0340+A+466+\0+1"
 - "Nprot-x0343+A+401+\0+1"
 - "Nprot-x0358+A+401+\0+1"
-- Nprot-x0361+A+401+A+1
 - Nprot-x0361+A+401+B+1
+- Nprot-x0361+A+401+A+1
 - "Nprot-x0385+A+464+\0+1"
 - "Nprot-x0389+A+401+\0+1"
 - "Nprot-x0390+A+401+\0+1"
@@ -83,8 +83,8 @@
 - "Nprot-x0369+A+464+\0+1"
 - "Nprot-x0372+A+464+\0+1"
 - "Nprot-x0374+A+401+\0+1"
-- Nprot-x0392+A+401+A+1
 - Nprot-x0392+A+401+B+1
+- Nprot-x0392+A+401+A+1
 - "Nprot-x0395+A+464+\0+1"
 - "Nprot-x0477+A+401+\0+1"
 - "Nprot-x0552+A+464+\0+1"
